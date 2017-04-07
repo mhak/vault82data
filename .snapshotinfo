@@ -18,5 +18,15 @@
     "created": "2017-04-07T17:56:15.9335456Z",
     "lastDeployed": "0001-01-01T00:00:00",
     "lastRollback": "0001-01-01T00:00:00"
+  },
+  {
+    "id": "131faca1-191e-47bf-ab92-8760e9701c11",
+    "database": "master",
+    "isFull": true,
+    "snapshotName": "3",
+    "snapshotRoot": "/sitecore",
+    "created": "2017-04-07T19:01:48.0910271Z",
+    "lastDeployed": "0001-01-01T00:00:00",
+    "lastRollback": "0001-01-01T00:00:00"
   }
 ]
