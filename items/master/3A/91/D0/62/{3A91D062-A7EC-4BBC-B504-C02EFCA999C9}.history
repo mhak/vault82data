@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A91D062-A7EC-4BBC-B504-C02EFCA999C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:35.9597424Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Post Accepted",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Post Accepted",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

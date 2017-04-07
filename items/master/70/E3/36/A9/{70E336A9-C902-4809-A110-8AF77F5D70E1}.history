@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70E336A9-C902-4809-A110-8AF77F5D70E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:57.7819906Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Versions",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Not Enough Versions Execute Command Action/Versions",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

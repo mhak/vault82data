@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BCFEBA0-30E5-47E5-8D0F-70ED4D847EEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:42.1330955Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Services",
+    "itemPath": "/sitecore/templates/System/Services",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

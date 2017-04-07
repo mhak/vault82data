@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F634E7D6-8F2A-4DB0-94C7-3F817A00731E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:36.2703284Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Goals",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Onsite Behavior/Goals",
+    "template": "Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

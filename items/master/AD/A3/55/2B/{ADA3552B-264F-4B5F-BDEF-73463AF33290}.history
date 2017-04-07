@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADA3552B-264F-4B5F-BDEF-73463AF33290}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:23.0115700Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Email inclusion",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/3rd party/Email inclusion",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

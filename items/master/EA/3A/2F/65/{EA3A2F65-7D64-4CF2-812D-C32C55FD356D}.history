@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA3A2F65-7D64-4CF2-812D-C32C55FD356D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:58.6500403Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Map Provider",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Map Provider",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

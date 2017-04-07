@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30E68347-3D15-4836-BD67-D9FB4BA3A09C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:18.6053180Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Pricing Quote Request",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Pricing Quote Request",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

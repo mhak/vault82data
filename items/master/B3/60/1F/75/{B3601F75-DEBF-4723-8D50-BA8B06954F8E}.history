@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3601F75-DEBF-4723-8D50-BA8B06954F8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:14.0644901Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Venue with custom data of a past or current interaction",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Venue with custom data of a past or current interaction",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

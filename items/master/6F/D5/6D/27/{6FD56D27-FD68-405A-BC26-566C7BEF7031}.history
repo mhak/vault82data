@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FD56D27-FD68-405A-BC26-566C7BEF7031}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:24.4436520Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "LinkedIn social community",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Social community/LinkedIn social community",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

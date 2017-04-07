@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{53C13607-D632-4354-8777-5ADF3E07BE92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:17.5392570Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ch-social-media-community",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-social-media-community",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2A8D9AB0-B1C1-4DA3-B17D-1610AD23D697}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:49.4125119Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/System/Analytics/Outcome/Outcome Definition/Data/Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

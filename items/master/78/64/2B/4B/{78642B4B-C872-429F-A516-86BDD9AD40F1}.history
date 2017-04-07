@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78642B4B-C872-429F-A516-86BDD9AD40F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:25.3491356Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Suggestion",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Suggestion",
+    "template": "Validation Result",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

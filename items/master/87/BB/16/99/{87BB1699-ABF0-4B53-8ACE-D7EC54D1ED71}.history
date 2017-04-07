@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87BB1699-ABF0-4B53-8ACE-D7EC54D1ED71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:28.4183111Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Segment Builder/Tags",
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

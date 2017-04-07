@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6A6AA95-9016-4E47-BBBC-DF85C1F884B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:17.2842425Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ch-order",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-order",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

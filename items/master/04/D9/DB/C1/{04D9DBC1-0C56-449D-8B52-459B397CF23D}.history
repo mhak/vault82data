@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04D9DBC1-0C56-449D-8B52-459B397CF23D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:36.3917672Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Edit",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Draft/Edit",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

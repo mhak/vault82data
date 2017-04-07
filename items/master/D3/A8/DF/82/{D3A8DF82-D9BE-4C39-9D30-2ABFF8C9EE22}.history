@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3A8DF82-D9BE-4C39-9D30-2ABFF8C9EE22}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:28.3303061Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Search Query Builder/Rules",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

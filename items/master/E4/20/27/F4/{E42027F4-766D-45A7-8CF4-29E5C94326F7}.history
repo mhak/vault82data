@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E42027F4-766D-45A7-8CF4-29E5C94326F7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:09.3286510Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Placeholder",
+    "itemPath": "/sitecore/templates/System/Layout/Rendering Parameters/Standard Rendering Parameters/General/Placeholder",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

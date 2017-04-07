@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A456F5C5-FE28-4F97-A555-675B8F145AAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:53.0112859Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Business Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Business Visits",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

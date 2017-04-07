@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57CBCA4C-8C94-446C-B8CA-7D8DC54F4285}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:39.9504025Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Validate Button Validation Rules",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Validators/Validation Rules/__Validate Button Validation Rules",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

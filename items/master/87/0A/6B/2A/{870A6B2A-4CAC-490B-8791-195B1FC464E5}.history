@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{870A6B2A-4CAC-490B-8791-195B1FC464E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:45.9213122Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxonomy tag definition/General/Description",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

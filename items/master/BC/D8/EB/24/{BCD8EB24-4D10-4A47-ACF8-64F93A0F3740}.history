@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCD8EB24-4D10-4A47-ACF8-64F93A0F3740}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:36.9557994Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Layouts",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts",
+    "template": "Branch Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

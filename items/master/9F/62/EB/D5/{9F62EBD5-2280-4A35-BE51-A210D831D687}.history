@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F62EBD5-2280-4A35-BE51-A210D831D687}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:23.5434641Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Small Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Button",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

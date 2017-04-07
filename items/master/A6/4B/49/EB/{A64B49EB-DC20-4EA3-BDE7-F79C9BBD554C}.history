@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A64B49EB-DC20-4EA3-BDE7-F79C9BBD554C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:43.4017363Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Lao Peoples Democratic Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lao Peoples Democratic Republic",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

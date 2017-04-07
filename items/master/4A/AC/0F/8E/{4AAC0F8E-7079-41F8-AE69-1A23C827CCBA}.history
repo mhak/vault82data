@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4AAC0F8E-7079-41F8-AE69-1A23C827CCBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:08.2475892Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "No Silverlight Support Trait",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/No Silverlight Support Trait",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

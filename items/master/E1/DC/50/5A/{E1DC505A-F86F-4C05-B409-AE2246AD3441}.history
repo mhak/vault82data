@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1DC505A-F86F-4C05-B409-AE2246AD3441}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:14.7790992Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Blackberry",
+    "itemPath": "/sitecore/layout/Simulators/Blackberry",
+    "template": "Simulator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

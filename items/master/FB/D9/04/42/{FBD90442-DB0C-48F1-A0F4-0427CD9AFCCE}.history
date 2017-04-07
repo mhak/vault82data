@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBD90442-DB0C-48F1-A0F4-0427CD9AFCCE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:15.5170050Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Format",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Properties/Format",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

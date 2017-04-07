@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4CA4E88-9D2D-4CE3-BF82-C786AC624099}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:53.1822957Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Slow Pages",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Slow Pages",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

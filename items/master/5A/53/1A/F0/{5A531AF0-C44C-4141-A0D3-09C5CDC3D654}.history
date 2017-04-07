@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A531AF0-C44C-4141-A0D3-09C5CDC3D654}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:54.5373732Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/ID",
+    "template": "Field Search Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

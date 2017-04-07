@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7D739A6-D393-4C4D-A954-AF5C777F31A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:52.0102287Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Subreports",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

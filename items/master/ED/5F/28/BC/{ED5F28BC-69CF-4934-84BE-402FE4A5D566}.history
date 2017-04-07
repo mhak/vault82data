@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED5F28BC-69CF-4934-84BE-402FE4A5D566}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:33.5091705Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Cecile",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Cecile",
+    "template": "Preset Persona",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

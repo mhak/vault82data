@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{271D7B0F-446C-4F24-BFE7-E33C20BF7A41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:51.6766414Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "MinValue",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Key/Data/MinValue",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

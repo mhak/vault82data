@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E9F51C8-6772-4A04-AAA0-ACC0DC1695A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:06.3314796Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Item section/Data",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

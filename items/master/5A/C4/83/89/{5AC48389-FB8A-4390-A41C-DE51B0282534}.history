@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5AC48389-FB8A-4390-A41C-DE51B0282534}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:24.8625395Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Gallery Parameters",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Combo Button/Data/Gallery Parameters",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

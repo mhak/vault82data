@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8E0B251-233D-4FA9-9DF9-5D38450E00D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:05.0269732Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Computer",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Type/Device Types/Computer",
+    "template": "Standard template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

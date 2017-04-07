@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC095310-746F-4C1B-A73F-941863564DC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:20.4094212Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E49F6EF0-B94B-4927-8B0E-443468249D9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:13.8260447Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Login with Google",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with Google",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1744A9FF-6E22-43F0-83E8-CCB30DDE35E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:59.0426309Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Sticky",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Test Strategies/Sticky",
+    "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

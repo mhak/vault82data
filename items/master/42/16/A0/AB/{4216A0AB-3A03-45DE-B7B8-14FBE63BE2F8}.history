@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4216A0AB-3A03-45DE-B7B8-14FBE63BE2F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:05.8694532Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Search Filter Control Details",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Search Control Type/Search Filter Control Details",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

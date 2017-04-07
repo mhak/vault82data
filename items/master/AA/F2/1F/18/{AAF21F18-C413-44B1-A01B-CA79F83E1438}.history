@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAF21F18-C413-44B1-A01B-CA79F83E1438}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:24.2356401Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "PR referrals",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Referral/PR referrals",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

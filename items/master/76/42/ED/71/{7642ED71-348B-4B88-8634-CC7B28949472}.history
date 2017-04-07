@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7642ED71-348B-4B88-8634-CC7B28949472}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:47.2133861Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Origin ID",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Designer/Designer Item Parameters/Designer/Origin ID",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

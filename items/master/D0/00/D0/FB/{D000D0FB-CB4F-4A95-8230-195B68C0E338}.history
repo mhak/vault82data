@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D000D0FB-CB4F-4A95-8230-195B68C0E338}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:44.7296759Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/BaseSegment/__Standard Values",
+    "template": "BaseSegment",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

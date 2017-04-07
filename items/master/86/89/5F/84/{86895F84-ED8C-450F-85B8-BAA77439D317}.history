@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86895F84-ED8C-450F-85B8-BAA77439D317}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:12.6969801Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "New Content",
+    "itemPath": "/sitecore/content/New Content",
+    "template": "Content",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

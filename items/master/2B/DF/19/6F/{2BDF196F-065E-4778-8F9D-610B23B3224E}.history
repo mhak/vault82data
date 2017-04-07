@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BDF196F-065E-4778-8F9D-610B23B3224E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:46.3049024Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Switzerland",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Switzerland",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

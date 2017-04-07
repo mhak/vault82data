@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14FA59C6-B9BB-40F1-8617-05E8606B5901}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:27.6757004Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button/Data/ID",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

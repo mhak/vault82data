@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CFCFC60-F4BA-4876-8824-A2659DD4030D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:58.9876278Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Random",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Test Strategies/Random",
+    "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

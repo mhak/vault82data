@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A77ED059-B590-4518-8B51-D7397FC0DAE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:32.4349726Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account/Review/Workflow",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

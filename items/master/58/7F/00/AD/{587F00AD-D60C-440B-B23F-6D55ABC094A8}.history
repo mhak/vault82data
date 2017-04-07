@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{587F00AD-D60C-440B-B23F-6D55ABC094A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:16.2111811Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Channel Images",
+    "itemPath": "/sitecore/media library/System/Channel Images",
+    "template": "Media folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74008565-F85E-4D66-9B10-42E1A03770BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:57.2735297Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Lock View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/Lock View",
+    "template": "View",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

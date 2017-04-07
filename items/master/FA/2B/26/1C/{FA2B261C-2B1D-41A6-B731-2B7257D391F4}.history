@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA2B261C-2B1D-41A6-B731-2B7257D391F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:51.1931819Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Country",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MongoDb/Country",
+    "template": "Vendor Specific Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

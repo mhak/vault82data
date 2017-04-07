@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{948235C2-D1AF-461E-AFFF-F4A0504F5145}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:59.8616778Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Item Deleted",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Deleted",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C77B45A4-E3E8-445D-970B-FB4A386CD873}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:25.8961668Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Device Detection/Rules",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

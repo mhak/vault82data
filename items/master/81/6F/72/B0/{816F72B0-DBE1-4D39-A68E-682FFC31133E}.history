@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{816F72B0-DBE1-4D39-A68E-682FFC31133E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:03.6478943Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Day of Month",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Day of Month",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

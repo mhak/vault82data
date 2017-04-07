@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49FE5A07-BE03-405C-8FF3-0DB160C0EAA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:07.8051321Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Locked by",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Locked by",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

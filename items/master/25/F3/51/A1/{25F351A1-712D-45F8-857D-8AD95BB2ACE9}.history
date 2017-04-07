@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{25F351A1-712D-45F8-857D-8AD95BB2ACE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:02.8758502Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Hide Rendering",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Conditional Renderings/Hide Rendering",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

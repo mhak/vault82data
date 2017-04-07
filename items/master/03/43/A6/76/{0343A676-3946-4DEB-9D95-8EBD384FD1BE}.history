@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0343A676-3946-4DEB-9D95-8EBD384FD1BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:57.4749730Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Deploy Associated Page Level Tests",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Deploy Associated Tests Action/Associated Tests/Deploy Associated Page Level Tests",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

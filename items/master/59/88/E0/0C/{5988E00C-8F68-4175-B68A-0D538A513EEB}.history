@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5988E00C-8F68-4175-B68A-0D538A513EEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:14.2180671Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "OnsiteBehaviour",
+    "itemPath": "/sitecore/layout/Sublayouts/ExperienceExplorer/OnsiteBehaviour",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

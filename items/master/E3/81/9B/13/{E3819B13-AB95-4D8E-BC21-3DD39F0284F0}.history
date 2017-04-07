@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E3819B13-AB95-4D8E-BC21-3DD39F0284F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:28.6457559Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "References",
+    "itemPath": "/sitecore/templates/System/Rules/Condition/Script/References",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

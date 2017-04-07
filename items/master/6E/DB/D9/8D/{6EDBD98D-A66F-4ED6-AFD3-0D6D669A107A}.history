@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EDBD98D-A66F-4ED6-AFD3-0D6D669A107A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:56.1708985Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Scheduling",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Scheduling",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

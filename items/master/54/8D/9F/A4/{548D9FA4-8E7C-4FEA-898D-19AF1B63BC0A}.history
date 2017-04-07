@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{548D9FA4-8E7C-4FEA-898D-19AF1B63BC0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:15.4145673Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "include both values",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include both values",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

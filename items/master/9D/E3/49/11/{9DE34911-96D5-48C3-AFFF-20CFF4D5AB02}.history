@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DE34911-96D5-48C3-AFFF-20CFF4D5AB02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:32.3825378Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Full Page XHtml",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Full Page XHtml",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

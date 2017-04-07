@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3443118-77AC-44C2-BAA0-F1ACCB31813A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:23.5084621Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Separator",
+    "itemPath": "/sitecore/templates/System/Ribbon/Separator",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

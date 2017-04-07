@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F1228C5-631B-48FC-B17B-6175BEFEB2F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:14.6710930Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "None",
+    "itemPath": "/sitecore/layout/Simulators/None",
+    "template": "Simulator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

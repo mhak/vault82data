@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7798CD59-76DC-4869-8BDA-2952A64B8687}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:16.3650535Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Make",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Make",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

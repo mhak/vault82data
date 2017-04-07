@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF6000DD-2854-4C27-84DA-D2BFF61383A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:16.5932029Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ch-company-website",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-company-website",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

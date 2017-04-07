@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50229ED0-1D90-4E55-9BE9-473813AFDD63}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:30.7374437Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Is Xml",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Is Xml",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

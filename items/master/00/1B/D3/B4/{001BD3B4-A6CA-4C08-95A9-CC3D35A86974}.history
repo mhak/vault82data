@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{001BD3B4-A6CA-4C08-95A9-CC3D35A86974}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:02.7148409Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Current Interaction is on channel group condition",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Channel/Current Interaction is on channel group condition",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

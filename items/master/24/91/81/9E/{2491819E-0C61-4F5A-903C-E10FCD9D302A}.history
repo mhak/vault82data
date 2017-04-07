@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2491819E-0C61-4F5A-903C-E10FCD9D302A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:37.1602429Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Validators",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Validators",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

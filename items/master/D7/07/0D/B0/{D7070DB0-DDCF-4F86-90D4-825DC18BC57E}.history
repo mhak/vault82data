@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7070DB0-DDCF-4F86-90D4-825DC18BC57E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:26.4291973Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Global Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Indexing and Search/Global Rules",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4BF98EF5-1D09-4DD1-9AFE-795F9829FD44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:36.7247862Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "System",
+    "itemPath": "/sitecore/templates/System",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

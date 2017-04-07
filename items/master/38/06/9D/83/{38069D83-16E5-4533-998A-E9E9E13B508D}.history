@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38069D83-16E5-4533-998A-E9E9E13B508D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:39.8749664Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Rules Context Folder/$name/Tags/Default",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

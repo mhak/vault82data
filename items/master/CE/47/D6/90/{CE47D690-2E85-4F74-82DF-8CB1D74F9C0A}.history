@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE47D690-2E85-4F74-82DF-8CB1D74F9C0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:47.2839583Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Yemen",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Yemen",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F34FADB5-6DC7-4F1D-BE17-0AA3421CFEB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:48.6960391Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Smileys",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Smileys",
+    "template": "Profile Key Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

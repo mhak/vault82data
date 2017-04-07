@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09D343E1-0874-4125-917B-4B5A67C15B00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:01.9877994Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Visitor",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

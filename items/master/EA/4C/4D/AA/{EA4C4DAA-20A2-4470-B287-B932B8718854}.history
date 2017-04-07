@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA4C4DAA-20A2-4470-B287-B932B8718854}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:14.5500861Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Google Plus One Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Google Plus One Button",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

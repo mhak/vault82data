@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52765810-9621-4946-B15B-6C1B5BBAB15E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:45.7353016Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Classification",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Classification/Outcome classification/Classification",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

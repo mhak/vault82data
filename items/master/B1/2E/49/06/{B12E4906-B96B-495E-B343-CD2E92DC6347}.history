@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B12E4906-B96B-495E-B343-CD2E92DC6347}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:40.7844502Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ValidationText",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/ValidationText",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

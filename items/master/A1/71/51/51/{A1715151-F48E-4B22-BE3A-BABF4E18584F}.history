@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1715151-F48E-4B22-BE3A-BABF4E18584F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:14.1309257Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Editor Options",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

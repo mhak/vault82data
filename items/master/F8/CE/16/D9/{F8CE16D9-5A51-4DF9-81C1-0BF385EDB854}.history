@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F8CE16D9-5A51-4DF9-81C1-0BF385EDB854}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:49.1034942Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Image",
+    "itemPath": "/sitecore/templates/System/Analytics/Funnel/Data/Image",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

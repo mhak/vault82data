@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F72972F5-AB54-4552-AC46-CB493308D08A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:09.2986493Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Test Lab",
+    "itemPath": "/sitecore/templates/System/Layout/Rendering Parameters/Standard Rendering Parameters/Test Lab",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

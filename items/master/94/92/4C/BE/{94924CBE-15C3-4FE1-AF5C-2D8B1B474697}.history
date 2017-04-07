@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94924CBE-15C3-4FE1-AF5C-2D8B1B474697}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:34.5700948Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Posted Date",
+    "itemPath": "/sitecore/templates/System/Social/Message/Message/Metadata/Posted Date",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

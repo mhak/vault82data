@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A43A0FE-7E0E-49EF-95D4-E3DE34F4F175}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:47.0043742Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Engagement Plan Condition",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan Condition",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

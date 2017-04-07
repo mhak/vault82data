@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B979A670-5AAF-4E63-94AC-C3C3E5BFBE84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:23.8286168Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Organic non-branded search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Organic search/Organic non-branded search",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

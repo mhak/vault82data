@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4D2B019-D375-40DC-AA5C-4AE355CFE974}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:21.5683511Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "IncludeAllPages",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ExperienceMap/Options/IncludeAllPages",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

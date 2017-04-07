@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C621EB54-310C-4DA2-ABB0-6792212B510E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:26.9177935Z",
+    "label": "Snapshot - 3",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Twitter Goal Messages",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Goal Messages",
+    "template": "Campaign",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

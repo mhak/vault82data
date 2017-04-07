@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{645D548F-EEA0-46BE-BB35-543B29F60FC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:33.3705944Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Rebuild Suggested Tests Index",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Rebuild Suggested Tests Index",
+    "template": "Rebuild Index Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

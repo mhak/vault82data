@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E34A660-3099-4E49-87DF-80EB1DECF2A6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:04.8703960Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Enabled",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Dropdown List/Dropdown List/Enabled",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3AC4B854-6CF9-4B30-9D52-1E5518AFF0E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:28.2807350Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Script",
+    "itemPath": "/sitecore/templates/System/Rules/Action/Script",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

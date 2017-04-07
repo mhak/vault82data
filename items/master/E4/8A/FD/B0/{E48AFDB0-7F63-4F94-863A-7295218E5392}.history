@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E48AFDB0-7F63-4F94-863A-7295218E5392}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:22.4744029Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Portal",
+    "itemPath": "/sitecore/templates/System/Portal/Portal",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

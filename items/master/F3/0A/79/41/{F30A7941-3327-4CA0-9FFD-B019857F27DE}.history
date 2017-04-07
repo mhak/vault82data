@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F30A7941-3327-4CA0-9FFD-B019857F27DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:33.1965844Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Twitter",
+    "itemPath": "/sitecore/system/Social/Networks/Twitter",
+    "template": "Network",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

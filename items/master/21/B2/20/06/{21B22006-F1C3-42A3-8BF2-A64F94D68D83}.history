@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{21B22006-F1C3-42A3-8BF2-A64F94D68D83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:42.7957016Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "India",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/India",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

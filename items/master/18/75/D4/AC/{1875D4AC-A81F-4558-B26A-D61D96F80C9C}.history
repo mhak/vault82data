@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1875D4AC-A81F-4558-B26A-D61D96F80C9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:15.0391140Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Android Phablet Landscape",
+    "itemPath": "/sitecore/layout/Simulators/Android Phablet/Android Phablet Landscape",
+    "template": "Simulator Rotated State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

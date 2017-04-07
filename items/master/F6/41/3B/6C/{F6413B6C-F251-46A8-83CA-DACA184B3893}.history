@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F6413B6C-F251-46A8-83CA-DACA184B3893}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:19.5993749Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "iPad_landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/iPad_landscape",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

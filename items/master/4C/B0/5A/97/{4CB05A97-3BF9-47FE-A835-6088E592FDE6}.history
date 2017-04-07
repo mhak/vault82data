@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CB05A97-3BF9-47FE-A835-6088E592FDE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:06.6885000Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "WorldLingo Language Identifier",
+    "itemPath": "/sitecore/templates/System/Language/Data/WorldLingo Language Identifier",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

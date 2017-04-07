@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2942AC8-B432-4C2B-BE30-7C0A5085270D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:41.9255155Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/templates/System/Validation/Global Validation Rules/Validation Rules/Workflow",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

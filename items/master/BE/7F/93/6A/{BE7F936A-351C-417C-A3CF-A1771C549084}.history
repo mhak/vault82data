@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE7F936A-351C-417C-A3CF-A1771C549084}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:18.1952946Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Long Running Request",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Long Running Request",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

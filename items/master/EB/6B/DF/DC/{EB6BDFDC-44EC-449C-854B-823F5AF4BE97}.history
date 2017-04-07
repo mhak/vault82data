@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB6BDFDC-44EC-449C-854B-823F5AF4BE97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:50.7965911Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Decay",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile/Data/Decay",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

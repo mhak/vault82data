@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFA6E0C1-4C3C-4E2E-BFF5-314DDCF920B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:42.8501366Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Organic Branded Keywords",
+    "itemPath": "/sitecore/templates/System/Analytics/Organic Branded Keywords",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

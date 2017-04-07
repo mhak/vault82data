@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC35523C-A869-4AA9-9714-F8523868758E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:13.1380053Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "MainMVC",
+    "itemPath": "/sitecore/layout/Layouts/MainMVC",
+    "template": "Layout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

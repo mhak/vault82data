@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B81C1F4C-8B83-44D9-902F-448463DBCCBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:47.3799638Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Always Evaluate",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Always Evaluate",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

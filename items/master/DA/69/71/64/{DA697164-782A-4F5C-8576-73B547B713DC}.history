@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA697164-782A-4F5C-8576-73B547B713DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:01.0381768Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Caching",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Caching",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

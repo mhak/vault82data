@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78168526-2783-4700-AD73-E78B9A056027}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:05.6320078Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Is in Specific State",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Engagement Automation/Is in Specific State",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

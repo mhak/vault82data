@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1EB8AE32-E190-44A6-968D-ED904C794EBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:40.5954394Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Source",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Source",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

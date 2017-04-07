@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D259A9BA-D0D2-4CE8-B838-2148E4DCEF47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:58.3480230Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary Domain/__Standard Values",
+    "template": "Dictionary Domain",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

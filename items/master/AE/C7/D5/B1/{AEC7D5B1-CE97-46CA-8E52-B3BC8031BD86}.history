@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AEC7D5B1-CE97-46CA-8E52-B3BC8031BD86}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:04.1543551Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Clientside Hook",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Clientside Hook",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

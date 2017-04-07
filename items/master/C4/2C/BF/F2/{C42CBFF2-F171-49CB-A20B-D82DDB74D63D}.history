@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C42CBFF2-F171-49CB-A20B-D82DDB74D63D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:16.0486036Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "UserRoles",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/UserRoles",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1ACACB1D-6F0D-4533-9512-E581405DDFB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:30.7888785Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "CanBoost",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/CanBoost",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

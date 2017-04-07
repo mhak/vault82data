@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{661C7D82-2C92-47D2-B41D-AFC2DC5379AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:23.9904896Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Click",
+    "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/Click",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

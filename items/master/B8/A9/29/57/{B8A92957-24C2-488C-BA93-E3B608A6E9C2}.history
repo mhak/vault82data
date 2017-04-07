@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8A92957-24C2-488C-BA93-E3B608A6E9C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:06.9320822Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "DNS Address",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/DNS Address",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

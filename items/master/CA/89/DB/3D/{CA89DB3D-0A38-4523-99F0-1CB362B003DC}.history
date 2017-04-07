@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA89DB3D-0A38-4523-99F0-1CB362B003DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.4256233Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Denmark",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Denmark",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

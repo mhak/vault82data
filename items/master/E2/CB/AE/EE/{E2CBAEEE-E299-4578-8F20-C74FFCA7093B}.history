@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E2CBAEEE-E299-4578-8F20-C74FFCA7093B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:17.4432516Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ch-push",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-push",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

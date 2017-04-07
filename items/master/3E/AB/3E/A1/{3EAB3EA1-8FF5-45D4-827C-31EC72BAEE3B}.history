@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EAB3EA1-8FF5-45D4-827C-31EC72BAEE3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:03.3283078Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Click",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Drop Down/Data/Click",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

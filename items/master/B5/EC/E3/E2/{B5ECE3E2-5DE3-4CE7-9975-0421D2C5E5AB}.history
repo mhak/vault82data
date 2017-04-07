@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5ECE3E2-5DE3-4CE7-9975-0421D2C5E5AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.6956387Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Estonia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Estonia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

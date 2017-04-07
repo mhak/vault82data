@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A504C987-889C-4313-94E2-18B21A5588A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:36.3573334Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Geo IP",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Visitor Information/Geo IP",
+    "template": "Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

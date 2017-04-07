@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E877764C-456E-4288-887B-A8913CBCD99A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:09.2686476Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Personalization",
+    "itemPath": "/sitecore/templates/System/Layout/Rendering Parameters/Standard Rendering Parameters/Personalization",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

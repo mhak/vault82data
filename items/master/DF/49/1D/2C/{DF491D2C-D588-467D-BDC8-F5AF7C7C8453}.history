@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF491D2C-D588-467D-BDC8-F5AF7C7C8453}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:00.4421428Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Organization",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/Data/Organization",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{096C7106-1681-45C6-B4CF-CF513A81EE18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:20.6018640Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Engagement Automation",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Engagement Automation",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

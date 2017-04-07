@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76C5D430-A6EA-4595-AD20-0906DA2FA4EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:17.1846686Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Classifications",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Conditional Renderings/Conditions/Classifications",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

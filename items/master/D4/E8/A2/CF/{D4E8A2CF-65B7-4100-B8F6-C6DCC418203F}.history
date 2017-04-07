@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4E8A2CF-65B7-4100-B8F6-C6DCC418203F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:43.8657628Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Mali",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mali",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

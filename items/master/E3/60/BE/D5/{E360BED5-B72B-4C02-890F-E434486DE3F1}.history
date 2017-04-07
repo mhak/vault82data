@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E360BED5-B72B-4C02-890F-E434486DE3F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:58.6180384Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Control",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Control",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

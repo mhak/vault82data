@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EEEE76F-7FB0-4B25-8D7F-43AF4466199B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:10.7132984Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "User Profile Numeric Field",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Profile Numeric Field",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

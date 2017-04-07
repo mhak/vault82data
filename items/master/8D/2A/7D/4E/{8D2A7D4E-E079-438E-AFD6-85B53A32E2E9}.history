@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D2A7D4E-E079-438E-AFD6-85B53A32E2E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:10.5787225Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Login rendering",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Item rendering/Data/Login rendering",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

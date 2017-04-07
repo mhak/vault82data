@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C772C7C-E368-4553-893A-2A4CCFD32C36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:13.6654673Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Outcome was registered during a past or current interaction",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Outcome was registered during a past or current interaction",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

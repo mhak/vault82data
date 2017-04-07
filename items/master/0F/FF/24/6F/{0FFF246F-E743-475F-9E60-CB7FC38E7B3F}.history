@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FFF246F-E743-475F-9E60-CB7FC38E7B3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:12.3793937Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Duration Reached",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Duration Reached",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

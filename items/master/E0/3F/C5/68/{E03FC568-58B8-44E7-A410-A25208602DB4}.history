@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E03FC568-58B8-44E7-A410-A25208602DB4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:08.9036267Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Screen Height",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Sections/Simulator Appearance/Simulator Appearance/Screen Height",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

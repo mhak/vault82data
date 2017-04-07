@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8415FE4-1F43-488E-8EA9-AEF1337EF914}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:19.4033637Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Android Tablet",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Tablet",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

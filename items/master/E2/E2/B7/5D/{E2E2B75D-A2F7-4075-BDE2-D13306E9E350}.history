@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E2E2B75D-A2F7-4075-BDE2-D13306E9E350}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:41.4914906Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Collapsed by Default",
+    "itemPath": "/sitecore/templates/System/Templates/Template section/Data/Collapsed by Default",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

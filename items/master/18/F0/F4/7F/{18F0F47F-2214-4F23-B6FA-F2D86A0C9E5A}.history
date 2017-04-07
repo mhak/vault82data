@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18F0F47F-2214-4F23-B6FA-F2D86A0C9E5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:48.7984768Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "After",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Placeholder Positions/After",
+    "template": "Property",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

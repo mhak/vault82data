@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08EF5EF9-80A1-4BDC-BF82-F10CC4CA0C8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:32.5071132Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "visitor is robot",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Rules/visitor is robot",
+    "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

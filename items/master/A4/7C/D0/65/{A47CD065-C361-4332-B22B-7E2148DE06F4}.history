@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A47CD065-C361-4332-B22B-7E2148DE06F4}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:25.5195771Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Tooltip",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Button/Data/Tooltip",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49753FAC-FD04-4D09-BAAF-27EEABF6FD5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:04.9419683Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Device Types",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Type/Device Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

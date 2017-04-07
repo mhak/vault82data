@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FC32FDF-D073-4D49-9819-3D95DCAAE51D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:18.1442917Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Login Failed",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Login Failed",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

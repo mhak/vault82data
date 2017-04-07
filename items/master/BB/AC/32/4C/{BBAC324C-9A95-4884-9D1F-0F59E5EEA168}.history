@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BBAC324C-9A95-4884-9D1F-0F59E5EEA168}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:35.8501680Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/Google Plus Share Button Parameters/__Standard Values",
+    "template": "Google Plus Share Button Parameters",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

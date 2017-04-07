@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C14B0CE1-9995-4196-BBA9-E7481873A90C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:41.7180718Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/templates/System/Navigation",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

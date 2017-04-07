@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2990487C-5D2E-4E71-9B49-359895775D13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:04.5899482Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Browser Supports JavaScript",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Browser Supports JavaScript",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9330F037-0541-47B3-9145-7BA2E6F6289A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:14.3320736Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ProfileViewer",
+    "itemPath": "/sitecore/layout/Sublayouts/ExperienceExplorer/OnsiteBehaviour/Profiles/ProfileViewer",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

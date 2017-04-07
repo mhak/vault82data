@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{899D11CD-60D6-4C06-A777-450B16BB5B3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:37.5908357Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "MVC Layout",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/MVC Layout",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

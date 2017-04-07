@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{419F8FFB-2713-4CEC-86A7-7585A727FE25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:42.8275671Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Validation Action",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

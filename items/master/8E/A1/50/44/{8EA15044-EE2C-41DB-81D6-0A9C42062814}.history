@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EA15044-EE2C-41DB-81D6-0A9C42062814}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:19.7723848Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "audio",
+    "itemPath": "/sitecore/media library/System/Template Thumbnails/audio",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

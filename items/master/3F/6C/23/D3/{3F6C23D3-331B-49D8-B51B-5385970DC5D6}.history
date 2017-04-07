@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F6C23D3-331B-49D8-B51B-5385970DC5D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:42.6055544Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Referrers",
+    "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder/FDA/Referrers",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

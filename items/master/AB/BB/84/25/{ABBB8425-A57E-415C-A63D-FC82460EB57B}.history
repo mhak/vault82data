@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABBB8425-A57E-415C-A63D-FC82460EB57B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:51.3601915Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Business",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/Business",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

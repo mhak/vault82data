@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB8A18EC-0AD5-4E3B-BF0B-C9098E3B9903}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:15.4495693Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "include lower value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include lower value",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

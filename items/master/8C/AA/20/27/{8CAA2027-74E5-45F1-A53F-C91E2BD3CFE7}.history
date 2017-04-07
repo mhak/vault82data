@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CAA2027-74E5-45F1-A53F-C91E2BD3CFE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:40.0135425Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Aruba",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Aruba",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

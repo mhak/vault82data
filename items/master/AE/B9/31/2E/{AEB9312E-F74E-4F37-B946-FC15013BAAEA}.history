@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AEB9312E-F74E-4F37-B946-FC15013BAAEA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:59.7331022Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Viewed Pages",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Onsite Behaviour/Viewed Pages",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

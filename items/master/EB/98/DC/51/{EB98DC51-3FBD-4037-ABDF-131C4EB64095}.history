@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB98DC51-3FBD-4037-ABDF-131C4EB64095}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:16.4881969Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ch-bing-search",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-bing-search",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

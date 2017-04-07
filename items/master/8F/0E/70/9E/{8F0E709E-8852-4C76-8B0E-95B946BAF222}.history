@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F0E709E-8852-4C76-8B0E-95B946BAF222}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:44.0307723Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Mauritius",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mauritius",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

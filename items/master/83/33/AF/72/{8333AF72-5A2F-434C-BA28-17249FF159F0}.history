@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8333AF72-5A2F-434C-BA28-17249FF159F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:45.0968333Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Philippines",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Philippines",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

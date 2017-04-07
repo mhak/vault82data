@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E72256CF-AF7D-4FED-958D-23B8A956A429}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:50.1401217Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Visits Visitor Tags",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visits Visitor Tags",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

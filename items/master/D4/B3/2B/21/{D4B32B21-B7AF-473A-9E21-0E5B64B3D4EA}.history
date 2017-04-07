@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4B32B21-B7AF-473A-9E21-0E5B64B3D4EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:08.7776195Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Unsupported Content",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Sections/Unsupported Content",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

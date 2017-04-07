@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38EE693F-C33F-45D8-B06E-5E8355655336}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:43.2521595Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Report Schedule",
+    "itemPath": "/sitecore/templates/System/Analytics/Report Schedule",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

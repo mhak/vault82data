@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{823ECF5F-AE72-40B5-BC87-CB425FE7E5F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:36.8762267Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Insert Options",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Insert Options",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

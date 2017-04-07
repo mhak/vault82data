@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F021986C-FCD2-45F9-A8FF-DCF61032D9CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:27.6532673Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Marketing Workflows/Rules",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

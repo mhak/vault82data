@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AA9420CE-E147-4466-A71D-B8AE70AF6D0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:27.2962469Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Social Applications",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Social Applications",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32752968-325C-4872-958A-DC9DA7F13831}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:24.7166676Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Other sponsored posts",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Social sponsored posts/Other sponsored posts",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBB5CAEA-9ACB-4613-8A52-AECDDA690AC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:55.8894506Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Recently Created",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Recently Created",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

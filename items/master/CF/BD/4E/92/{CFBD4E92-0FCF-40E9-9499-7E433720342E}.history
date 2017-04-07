@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CFBD4E92-0FCF-40E9-9499-7E433720342E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:42.6221235Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Dashboard",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

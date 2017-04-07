@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{41498D58-EC2D-470E-B854-556001A70A23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:34.0161995Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Robot",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Business Classification/Robot",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

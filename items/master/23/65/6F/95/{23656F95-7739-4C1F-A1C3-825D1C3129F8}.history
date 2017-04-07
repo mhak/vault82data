@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23656F95-7739-4C1F-A1C3-825D1C3129F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:17.8392742Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Campaign",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Campaign",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

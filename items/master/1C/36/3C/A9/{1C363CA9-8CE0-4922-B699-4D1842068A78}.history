@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C363CA9-8CE0-4922-B699-4D1842068A78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:28.1282945Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Path Analyzer Maps/Rules",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

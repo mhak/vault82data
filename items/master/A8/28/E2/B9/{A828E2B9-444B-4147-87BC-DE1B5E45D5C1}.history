@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A828E2B9-444B-4147-87BC-DE1B5E45D5C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:11.1353226Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "JobTitle",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/JobTitle",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

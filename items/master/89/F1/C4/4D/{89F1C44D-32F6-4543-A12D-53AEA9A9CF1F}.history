@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89F1C44D-32F6-4543-A12D-53AEA9A9CF1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:49.1110629Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Local Searches Leading to this Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Local Searches Leading to this Page",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

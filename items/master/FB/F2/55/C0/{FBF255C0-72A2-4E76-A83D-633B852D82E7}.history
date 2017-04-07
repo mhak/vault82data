@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBF255C0-72A2-4E76-A83D-633B852D82E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:26.9727966Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Dimensions",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

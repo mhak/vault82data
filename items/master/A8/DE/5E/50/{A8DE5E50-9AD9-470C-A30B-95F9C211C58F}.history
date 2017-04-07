@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A8DE5E50-9AD9-470C-A30B-95F9C211C58F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:15.9055954Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "StateOperator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/StateOperator",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

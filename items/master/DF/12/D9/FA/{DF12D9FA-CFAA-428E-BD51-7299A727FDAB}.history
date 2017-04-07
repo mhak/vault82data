@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF12D9FA-CFAA-428E-BD51-7299A727FDAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:43.1781553Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Profile Key Control",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Key Control",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

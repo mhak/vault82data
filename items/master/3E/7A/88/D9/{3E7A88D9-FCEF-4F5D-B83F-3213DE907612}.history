@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E7A88D9-FCEF-4F5D-B83F-3213DE907612}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:50.1711235Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Visit Pages",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Pages",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

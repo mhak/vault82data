@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9EF07D53-DC1E-4542-9466-543EA7F58603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:56.7935023Z",
+    "label": "Snapshot - 3",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "New Tab",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab",
+    "template": "Open Result Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F42F3E57-5A4B-49EF-A581-A60CEDC71305}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:30.1304090Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Minimum Length 8",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Minimum Length 8",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

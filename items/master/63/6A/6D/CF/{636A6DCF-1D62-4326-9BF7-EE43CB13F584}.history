@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{636A6DCF-1D62-4326-9BF7-EE43CB13F584}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:33.2510193Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Base Login Button Parameters/Social",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7429409-D6DA-46CD-91DD-8702781AE3C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:33.0995789Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/system/Social/Networks/Facebook",
+    "template": "Network",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

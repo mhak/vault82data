@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F517EBB5-087E-4C1E-953F-C7E5E22F14BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:25.5761485Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Campaigns/Tags/Default",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

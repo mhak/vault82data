@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09340671-13CF-4181-A706-BE150B00D735}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:20.9528841Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Item Information",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Item Information",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

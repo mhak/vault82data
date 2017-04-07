@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50278469-25F6-456B-BF9A-92C22FD38086}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:33.1791516Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Chris",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Chris",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{856B9300-7C63-4404-A9AD-7E2DA86BEC06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:34.9676857Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Deploy Map",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy/Deploy Map",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{087E1EA5-6280-4575-9E70-85B588DB91B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:20.1754078Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Settings",
+    "itemPath": "/sitecore/system/Settings",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

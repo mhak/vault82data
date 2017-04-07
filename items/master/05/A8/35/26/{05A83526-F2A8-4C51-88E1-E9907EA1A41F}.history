@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05A83526-F2A8-4C51-88E1-E9907EA1A41F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:40.6965816Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Bulgaria",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bulgaria",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

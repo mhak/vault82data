@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{229BADDC-59D2-4294-BF2A-08E5B2BF6B29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:26.6122078Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Analytics Campaigns",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Analytics Campaigns",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

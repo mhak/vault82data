@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B8AD536-4FA6-4122-A31E-32BB6BC42806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:07.0595213Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Rendering group",
+    "itemPath": "/sitecore/templates/System/Layout/Rendering group",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18B02A1C-FD60-461A-A3F4-259634DB5704}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:47.8804243Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Domain Matcher/__Standard Values",
+    "template": "Domain Matcher",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFC9E528-2CA5-4ABE-A68B-289A081177B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:43.9271982Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Venue group",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Venue/Venue group",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

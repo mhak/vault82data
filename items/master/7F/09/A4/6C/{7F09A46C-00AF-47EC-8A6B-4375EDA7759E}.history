@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F09A46C-00AF-47EC-8A6B-4375EDA7759E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:50.0471164Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Visit Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Goals",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

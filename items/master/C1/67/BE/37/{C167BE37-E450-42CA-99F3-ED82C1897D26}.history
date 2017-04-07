@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C167BE37-E450-42CA-99F3-ED82C1897D26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:30.7588768Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Administrator",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Administrator",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

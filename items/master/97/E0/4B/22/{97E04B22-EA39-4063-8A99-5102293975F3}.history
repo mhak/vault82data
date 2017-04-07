@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97E04B22-EA39-4063-8A99-5102293975F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:35.9943126Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Map Settings",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Map Settings",
+    "template": "Map Settings",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

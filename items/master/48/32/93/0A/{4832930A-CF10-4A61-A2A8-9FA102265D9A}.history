@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4832930A-CF10-4A61-A2A8-9FA102265D9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:13.5904630Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Goal with custom data was triggered during a past or current interaction",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Goal with custom data was triggered during a past or current interaction",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

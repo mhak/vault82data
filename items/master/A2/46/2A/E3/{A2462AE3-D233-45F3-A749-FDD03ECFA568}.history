@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2462AE3-D233-45F3-A749-FDD03ECFA568}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:32.1679574Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Sharing",
+    "itemPath": "/sitecore/templates/System/Social/Sharing",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

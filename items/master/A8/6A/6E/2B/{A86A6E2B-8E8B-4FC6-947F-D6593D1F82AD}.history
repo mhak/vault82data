@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A86A6E2B-8E8B-4FC6-947F-D6593D1F82AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:59.5916623Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Content Editor Warnings",
+    "itemPath": "/sitecore/system/Settings/Rules/Content Editor Warnings",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

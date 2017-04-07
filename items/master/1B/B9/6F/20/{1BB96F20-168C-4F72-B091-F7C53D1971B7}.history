@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1BB96F20-168C-4F72-B091-F7C53D1971B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:32.4091076Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "visitor is my company",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Rules/visitor is my company",
+    "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

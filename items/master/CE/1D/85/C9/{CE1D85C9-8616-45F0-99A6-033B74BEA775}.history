@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE1D85C9-8616-45F0-99A6-033B74BEA775}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:00.7297274Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Channel",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Channel",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

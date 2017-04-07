@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58014183-26FE-4568-B19F-C26745824C32}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:42.2355332Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Text/Description",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

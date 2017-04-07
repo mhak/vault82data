@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96C8E5DD-63C3-496B-A97C-A3E37E1DACBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:29.6588139Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Tags Definitions Folder",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Tags Definitions Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

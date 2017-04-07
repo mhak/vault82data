@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{397506EC-31D1-4C32-A522-C9718389EF5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:53.3833072Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Contact Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Contact Overview/Contact Overview",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59255373-CFC4-49BB-B040-C60A0CAF2A57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.8246461Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Faroe Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Faroe Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

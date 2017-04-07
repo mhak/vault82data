@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB6934AF-A322-4BBE-AC3E-91F4A66BFBF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:08.9716306Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Scale",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Sections/Simulator Appearance/Simulator Appearance/Scale",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

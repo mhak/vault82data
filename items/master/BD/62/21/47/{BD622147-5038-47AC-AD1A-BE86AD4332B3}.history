@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD622147-5038-47AC-AD1A-BE86AD4332B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.6296349Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Equatorial Guinea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Equatorial Guinea",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

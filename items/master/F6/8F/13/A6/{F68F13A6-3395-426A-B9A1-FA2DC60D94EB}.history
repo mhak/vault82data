@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F68F13A6-3395-426A-B9A1-FA2DC60D94EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:41.5550625Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Language",
+    "itemPath": "/sitecore/templates/System/Language",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

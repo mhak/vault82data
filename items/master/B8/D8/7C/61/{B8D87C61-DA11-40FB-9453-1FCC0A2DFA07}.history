@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8D87C61-DA11-40FB-9453-1FCC0A2DFA07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:43.4851729Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Outcome",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Outcome",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

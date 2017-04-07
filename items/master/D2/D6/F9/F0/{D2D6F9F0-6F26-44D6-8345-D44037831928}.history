@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D2D6F9F0-6F26-44D6-8345-D44037831928}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:58.3675923Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Test Outcome by Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Test Outcome by Test Id",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

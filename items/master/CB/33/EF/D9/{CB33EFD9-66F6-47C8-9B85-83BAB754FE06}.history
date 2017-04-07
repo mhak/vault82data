@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:12.5134014Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Run Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Run Rules",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

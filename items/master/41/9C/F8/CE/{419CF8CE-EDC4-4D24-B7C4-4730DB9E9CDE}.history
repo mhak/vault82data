@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{419CF8CE-EDC4-4D24-B7C4-4730DB9E9CDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:11.8893657Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Analytics Enabled",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Analytics Enabled",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

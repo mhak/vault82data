@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23669FAC-5C34-4B8A-B4EC-9125968F6602}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:54.4543685Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Debug",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Debug",
+    "template": "Field Search Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

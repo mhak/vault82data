@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C3C4DCB-5FCA-4FB6-8516-193FCD6452CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:13.3294481Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Campaign was triggered during a past or current interaction",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Campaign was triggered during a past or current interaction",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

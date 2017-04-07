@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7851F00-E869-4F93-81F5-B5338EFF58A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:34.1980735Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Facebook Message",
+    "itemPath": "/sitecore/templates/System/Social/Message/Facebook Message",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

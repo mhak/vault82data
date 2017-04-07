@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D31F06CA-31F2-4AFD-9E19-2EED6CDE81B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.3446186Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Cuba",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cuba",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

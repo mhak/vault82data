@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC74A09A-7FA7-4A5A-874A-6B5CA9E05773}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:23.9496237Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Facebook ads",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Paid search/Facebook ads",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

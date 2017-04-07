@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6076B52-7EA9-4297-B799-864ACDCB0257}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:48.0380015Z",
+    "label": "Snapshot - 3",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Page error",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Page error",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

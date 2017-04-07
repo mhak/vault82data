@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85C66A5B-220A-48A2-89D1-51412B3B4124}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:29.1493529Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "75",
+    "itemPath": "/sitecore/system/Settings/Simulators/Scale Values/75",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD2DC446-FFB3-41FE-A078-00F34EA30678}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:31.8469390Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Snippet",
+    "itemPath": "/sitecore/templates/System/Snippet/Data/Snippet",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

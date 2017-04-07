@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC65212F-C5F2-437A-965E-7F0690A82F21}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:25.8505960Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Check Button/Data/ID",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

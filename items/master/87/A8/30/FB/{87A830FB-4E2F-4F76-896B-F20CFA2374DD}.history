@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87A830FB-4E2F-4F76-896B-F20CFA2374DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:54.3373618Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Updated Date",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Updated Date",
+    "template": "Facet",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

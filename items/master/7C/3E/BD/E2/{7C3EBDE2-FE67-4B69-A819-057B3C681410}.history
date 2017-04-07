@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C3EBDE2-FE67-4B69-A819-057B3C681410}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:14.1420627Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/layout/Sublayouts/Social",
+    "template": "Sublayout Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

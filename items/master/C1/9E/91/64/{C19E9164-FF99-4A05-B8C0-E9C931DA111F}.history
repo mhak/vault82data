@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C19E9164-FF99-4A05-B8C0-E9C931DA111F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:19.6333768Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "iPhone",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/iPhone",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

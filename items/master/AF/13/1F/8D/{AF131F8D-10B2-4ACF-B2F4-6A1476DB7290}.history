@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF131F8D-10B2-4ACF-B2F4-6A1476DB7290}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:15.9140277Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Dimensions",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Flash/Properties/Dimensions",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{953F0689-1F25-45EF-87F8-376D9D07702B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:36.4143366Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Referral",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Referral Information/Referral",
+    "template": "Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

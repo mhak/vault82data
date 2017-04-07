@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C2DEDB4-40FB-4166-8221-C4DD3E914478}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:25.4865752Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Click",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Button/Data/Click",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4698B7F3-1395-4DB6-85D3-A6B4873FABBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:40.4435671Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Bermuda",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bermuda",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

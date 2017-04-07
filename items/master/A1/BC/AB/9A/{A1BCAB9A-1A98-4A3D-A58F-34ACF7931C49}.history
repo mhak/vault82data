@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1BCAB9A-1A98-4A3D-A58F-34ACF7931C49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:27.1958094Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "By email",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Email/By email",
+    "template": "Dimension",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

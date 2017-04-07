@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52BE0F65-878D-4570-A53D-5C5127B31BF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:39.5985188Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Afghanistan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Afghanistan",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

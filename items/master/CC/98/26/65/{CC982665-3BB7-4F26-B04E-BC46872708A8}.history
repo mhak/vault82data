@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC982665-3BB7-4F26-B04E-BC46872708A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:11.3943374Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Visit Number",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Visit Number",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

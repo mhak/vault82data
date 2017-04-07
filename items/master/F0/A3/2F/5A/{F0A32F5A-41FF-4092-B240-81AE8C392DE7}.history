@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0A32F5A-41FF-4092-B240-81AE8C392DE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:37.9688574Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Url Rendering",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Url Rendering",
+    "template": "Branch",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

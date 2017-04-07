@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ECB1D97A-FD2B-4863-A27B-4512C2C2458E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:16.5662014Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ch-collateral",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-collateral",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{448C4D57-F0F1-4278-8AB8-93DB46C94F1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:43.0851500Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Profile Card - Persona",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

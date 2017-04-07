@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{440A3125-A076-4359-A4EC-200459CDA166}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:18.1131535Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "FrameCount",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Flash/FrameCount",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

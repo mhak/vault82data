@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4DDAA344-B1D3-4B44-9033-B3150460E9CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:47.0399444Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Uzbekistan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uzbekistan",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

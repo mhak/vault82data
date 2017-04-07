@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{15FB4B13-691C-4BBD-8904-6CEC99CA18C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:05.1929827Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Mobile Phone",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Type/Device Types/Mobile Phone",
+    "template": "Standard template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

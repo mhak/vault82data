@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66722F52-2D13-4DCC-90FC-EA7117CF2298}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:26.3417605Z",
+    "label": "Snapshot - 3",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Login",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Login",
+    "template": "Goal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

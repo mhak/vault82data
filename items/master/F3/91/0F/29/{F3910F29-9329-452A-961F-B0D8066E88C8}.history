@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3910F29-9329-452A-961F-B0D8066E88C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:21.9863750Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Scope",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/MapGroup/Scope",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

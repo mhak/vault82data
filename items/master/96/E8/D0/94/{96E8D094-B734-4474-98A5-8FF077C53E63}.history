@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96E8D094-B734-4474-98A5-8FF077C53E63}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:27.7522730Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Device",
+    "itemPath": "/sitecore/system/Settings/Rules/Marketing Workflows/Tags/Device",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

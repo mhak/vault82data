@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6477CB98-1547-4A08-BFC6-C9F68ED2B3A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:30.3949924Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Custom maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Custom maps",
+    "template": "MapGroupFolder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

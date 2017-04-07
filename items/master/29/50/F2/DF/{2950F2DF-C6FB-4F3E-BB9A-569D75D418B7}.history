@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2950F2DF-C6FB-4F3E-BB9A-569D75D418B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:55.6044343Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Personalize",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Personalize",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

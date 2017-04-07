@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA1DBA36-423B-4AA2-80CD-2765789753AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:58.7396136Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Write Testing Cluster Members",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Write Testing Cluster Members",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

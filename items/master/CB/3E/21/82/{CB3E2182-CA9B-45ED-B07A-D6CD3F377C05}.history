@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB3E2182-CA9B-45ED-B07A-D6CD3F377C05}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.0556021Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Christmas Island",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Christmas Island",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

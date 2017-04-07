@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86AE6B49-CEFA-4BCB-B7BF-CD45D2ECB05B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:47.3453937Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan/__Standard Values",
+    "template": "Engagement Plan",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

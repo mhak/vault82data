@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3E500BC-9C6A-48CB-B40A-8CCE8DDCFB13}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:27.0736660Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Click",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Input Box/Data/Click",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

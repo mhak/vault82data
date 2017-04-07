@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89C93B33-BAFF-4F03-950E-D3031A85CB9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:36.8113594Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Referral Information/Campaigns",
+    "template": "Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

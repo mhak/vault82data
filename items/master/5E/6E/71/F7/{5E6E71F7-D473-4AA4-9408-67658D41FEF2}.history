@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E6E71F7-D473-4AA4-9408-67658D41FEF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:05.1269789Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Media Player",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Type/Device Types/Media Player",
+    "template": "Standard template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

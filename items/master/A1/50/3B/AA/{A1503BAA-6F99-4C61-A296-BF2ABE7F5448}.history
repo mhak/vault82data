@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1503BAA-6F99-4C61-A296-BF2ABE7F5448}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:53.2402990Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Users In State",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Users In State",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

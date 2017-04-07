@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:02.9928568Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Set Rendering",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Conditional Renderings/Set Rendering",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C45070DA-6C67-4BAA-A9FD-C5503F002DCB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:44.4942306Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset taxonomy/__Standard Values",
+    "template": "Asset taxonomy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

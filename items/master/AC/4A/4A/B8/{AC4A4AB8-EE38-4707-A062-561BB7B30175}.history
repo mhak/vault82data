@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC4A4AB8-EE38-4707-A062-561BB7B30175}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:11.0783193Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Gender",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Gender",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

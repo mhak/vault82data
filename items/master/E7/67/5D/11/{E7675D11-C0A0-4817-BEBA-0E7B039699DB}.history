@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7675D11-C0A0-4817-BEBA-0E7B039699DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:19.7192453Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Text",
+    "itemPath": "/sitecore/templates/System/Navigation/Notification/Data/Text",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

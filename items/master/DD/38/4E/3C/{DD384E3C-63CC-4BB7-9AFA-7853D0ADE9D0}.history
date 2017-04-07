@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD384E3C-63CC-4BB7-9AFA-7853D0ADE9D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:35.1421275Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Account",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Account Posting Configuration/Data/Account",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

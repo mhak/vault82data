@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65C1D876-3E04-42A8-B219-9739C4E14C94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:06.8410770Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Business Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Business Name",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

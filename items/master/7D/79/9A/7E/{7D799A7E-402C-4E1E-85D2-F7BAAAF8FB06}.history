@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D799A7E-402C-4E1E-85D2-F7BAAAF8FB06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:27.2662452Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Simulator Insert Option",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Simulator Insert Option",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

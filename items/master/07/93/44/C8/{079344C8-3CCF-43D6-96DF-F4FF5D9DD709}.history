@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{079344C8-3CCF-43D6-96DF-F4FF5D9DD709}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:35.1761294Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Container",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration/Container",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2449F96D-620E-4E8A-A3E0-D354F78BBD73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:17.1300973Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Mp3",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

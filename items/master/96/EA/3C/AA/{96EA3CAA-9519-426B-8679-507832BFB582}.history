@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96EA3CAA-9519-426B-8679-507832BFB582}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:45.6198632Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Samoa",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Samoa",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

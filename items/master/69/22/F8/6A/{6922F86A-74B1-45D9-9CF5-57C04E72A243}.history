@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6922F86A-74B1-45D9-9CF5-57C04E72A243}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:01.5702073Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "HTML Size",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Size",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01F82880-2523-4BDD-BF78-F67163E6027A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:45.1346990Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "section",
+    "itemPath": "/sitecore/templates/Test/ContentChild/section",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

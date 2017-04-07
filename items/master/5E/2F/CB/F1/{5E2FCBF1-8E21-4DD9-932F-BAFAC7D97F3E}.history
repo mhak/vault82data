@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E2FCBF1-8E21-4DD9-932F-BAFAC7D97F3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:55.3904220Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Configure Standard Values",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Configure Standard Values",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{949DFD54-3A60-41D1-A05B-826783FD501F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:59.8266758Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Insert Options",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

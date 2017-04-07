@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AED4D0D5-8642-43D1-9485-64387919BAA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:32.8979991Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Application ID",
+    "itemPath": "/sitecore/templates/System/Social/Application/Data/Application ID",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

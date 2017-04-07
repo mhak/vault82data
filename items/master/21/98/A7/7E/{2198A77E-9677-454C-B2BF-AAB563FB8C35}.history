@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2198A77E-9677-454C-B2BF-AAB563FB8C35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:52.2142403Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Sales",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Sales",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

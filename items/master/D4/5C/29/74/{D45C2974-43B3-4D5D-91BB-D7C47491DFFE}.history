@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D45C2974-43B3-4D5D-91BB-D7C47491DFFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:55.7478743Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Device",
+    "itemPath": "/sitecore/templates/System/Content Testing/Page Level Test Variable/Data/Device",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

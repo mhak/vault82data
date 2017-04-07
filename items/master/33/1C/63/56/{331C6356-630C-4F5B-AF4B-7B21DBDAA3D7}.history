@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{331C6356-630C-4F5B-AF4B-7B21DBDAA3D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:06.8990803Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Country",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Country",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

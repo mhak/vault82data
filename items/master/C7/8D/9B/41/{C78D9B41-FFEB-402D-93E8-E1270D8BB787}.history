@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C78D9B41-FFEB-402D-93E8-E1270D8BB787}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:25.3455672Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Type",
+    "itemPath": "/sitecore/templates/System/Ribbon/Panel/Data/Type",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

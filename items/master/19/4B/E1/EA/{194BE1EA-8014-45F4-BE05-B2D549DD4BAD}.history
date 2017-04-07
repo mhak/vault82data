@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{194BE1EA-8014-45F4-BE05-B2D549DD4BAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:36.7783575Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Visitor Information/Tags",
+    "template": "Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

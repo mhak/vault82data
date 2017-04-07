@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F487AA7E-DF8D-4B8D-B168-07DA8F3CA658}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:47.4129657Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Only Evaluate on Timeout",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Only Evaluate on Timeout",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

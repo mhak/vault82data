@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCA389CA-36E3-4974-8150-3442AE54DF36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:45.2178402Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Puerto Rico",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Puerto Rico",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

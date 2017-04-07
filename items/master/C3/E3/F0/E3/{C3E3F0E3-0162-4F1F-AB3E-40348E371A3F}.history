@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3E3F0E3-0162-4F1F-AB3E-40348E371A3F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:29.3593649Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Reverse",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Reverse",
+    "template": "Child Sorting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69A248B0-7EC8-4375-8042-3CA5567C3B00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:39.0499192Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Registration goal map reverse",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Goal maps/Registration goal map reverse",
+    "template": "GoalMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

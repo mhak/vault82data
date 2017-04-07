@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99DB1959-E3E3-4CD0-B7D1-90D64CE4C32D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:44.2597854Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Montserrat",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Montserrat",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

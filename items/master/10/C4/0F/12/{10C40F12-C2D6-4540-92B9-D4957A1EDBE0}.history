@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10C40F12-C2D6-4540-92B9-D4957A1EDBE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:14.8595356Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Final Workflow State",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Workflows/Final Workflow State",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

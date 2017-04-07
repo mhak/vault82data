@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A8C5638-F605-475C-89D3-B4DD288E1D6A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:02.6672700Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "New class",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Translation/Data/New class",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

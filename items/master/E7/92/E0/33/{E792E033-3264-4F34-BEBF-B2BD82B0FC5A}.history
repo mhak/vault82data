@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E792E033-3264-4F34-BEBF-B2BD82B0FC5A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:24.9945471Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Icon",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button/Data/Icon",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

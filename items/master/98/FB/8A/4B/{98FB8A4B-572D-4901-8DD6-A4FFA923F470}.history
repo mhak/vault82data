@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98FB8A4B-572D-4901-8DD6-A4FFA923F470}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:00.7977313Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Content Editor",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Content Editor",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

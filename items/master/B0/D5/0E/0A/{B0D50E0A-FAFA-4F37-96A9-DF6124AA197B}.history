@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0D50E0A-FAFA-4F37-96A9-DF6124AA197B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:02.2182443Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Clean on button",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Clean on button",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

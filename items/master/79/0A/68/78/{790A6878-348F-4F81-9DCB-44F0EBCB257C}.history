@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{790A6878-348F-4F81-9DCB-44F0EBCB257C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:26.8702226Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "MVC Controllers",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/MVC Controllers",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

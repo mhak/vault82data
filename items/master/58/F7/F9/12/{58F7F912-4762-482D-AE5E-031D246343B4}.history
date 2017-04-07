@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58F7F912-4762-482D-AE5E-031D246343B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:40.1905526Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Bahamas",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bahamas",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

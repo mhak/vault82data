@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{869D1B82-50FB-4CD0-B1BF-B2482C5FBA97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:47.8114203Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Filters and Actions",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

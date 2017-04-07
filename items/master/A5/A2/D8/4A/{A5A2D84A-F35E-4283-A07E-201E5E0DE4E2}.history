@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A5A2D84A-F35E-4283-A07E-201E5E0DE4E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:36.8773631Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Page Configuration/Rules",
+    "template": "Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

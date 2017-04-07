@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DED9E431-3604-4921-A4B3-A6EC7636A5B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:10.0636931Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Controller Action",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Controller rendering/Data/Controller Action",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

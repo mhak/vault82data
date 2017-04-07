@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED8FBC7C-3AD5-45B6-AC54-E4DA0FAC4002}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:27.1966730Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Input Box/Data/ID",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

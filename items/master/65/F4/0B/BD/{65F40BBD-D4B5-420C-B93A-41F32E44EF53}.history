@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65F40BBD-D4B5-420C-B93A-41F32E44EF53}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:07.0275194Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Preview Simulators",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

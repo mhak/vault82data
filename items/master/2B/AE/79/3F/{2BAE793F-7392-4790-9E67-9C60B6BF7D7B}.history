@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BAE793F-7392-4790-9E67-9C60B6BF7D7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:33.8286206Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Analytics Testing Workflow",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow",
+    "template": "Workflow",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9FDDF7B8-F667-410E-A2B9-891FA829FE5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:33.8860556Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/__Standard Values",
+    "template": "Klout Application",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

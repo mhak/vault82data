@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5CB99F21-4EFA-4776-B532-EFC6B63D0C4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:26.4621992Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Item Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Indexing and Search/Item Rules",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

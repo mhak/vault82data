@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39387566-6A7E-4C86-9E88-AD871B41C3FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:47.9464280Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Matcher Rule",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Domain Matcher/Configuration/Matcher Rule",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

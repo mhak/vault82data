@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{918FFCF0-F9E1-4DB6-A191-3EFA5A91C583}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:07.4581122Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Add Insert Option",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Add Insert Option",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

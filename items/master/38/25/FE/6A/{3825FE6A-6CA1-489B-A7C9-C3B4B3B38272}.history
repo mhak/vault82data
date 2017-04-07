@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3825FE6A-6CA1-489B-A7C9-C3B4B3B38272}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:03.0092896Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Html Editor Snippet",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Snippet",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

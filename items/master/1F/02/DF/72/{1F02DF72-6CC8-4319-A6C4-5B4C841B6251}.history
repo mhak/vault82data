@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F02DF72-6CC8-4319-A6C4-5B4C841B6251}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:55.4184236Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Delete Children",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Delete Children",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

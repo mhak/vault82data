@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3031702-6BFF-4061-B92D-291E9EC865D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:37.3533904Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Validation Rules",
+    "itemPath": "/sitecore/system/Settings/Validation Rules",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

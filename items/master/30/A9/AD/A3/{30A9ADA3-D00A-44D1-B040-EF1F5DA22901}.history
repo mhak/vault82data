@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30A9ADA3-D00A-44D1-B040-EF1F5DA22901}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:00.4057089Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Obsolete",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

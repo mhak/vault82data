@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E95BD219-79CA-4821-8E13-35B8771A837E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:11.7153557Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Klout Score",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Klout Score",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

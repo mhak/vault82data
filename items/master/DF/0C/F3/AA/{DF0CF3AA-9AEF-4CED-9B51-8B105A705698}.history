@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF0CF3AA-9AEF-4CED-9B51-8B105A705698}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:57.7509888Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Create Suggested Tests If No Wizard",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Launch Create Test Dialog Action/Settings/Create Suggested Tests If No Wizard",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

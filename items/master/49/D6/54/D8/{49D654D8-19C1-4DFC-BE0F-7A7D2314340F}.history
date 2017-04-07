@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49D654D8-19C1-4DFC-BE0F-7A7D2314340F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:32.8345637Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Check in",
+    "itemPath": "/sitecore/system/Settings/Workflow/Check in",
+    "template": "Small Button",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

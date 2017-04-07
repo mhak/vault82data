@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{127E380E-65E1-478E-ABE7-15565EC136AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:30.0109704Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Paid search - Other search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search/Paid search - Other search",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

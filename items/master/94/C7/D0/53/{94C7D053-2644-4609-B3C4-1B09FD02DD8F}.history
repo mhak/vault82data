@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94C7D053-2644-4609-B3C4-1B09FD02DD8F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:26.4676313Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Access Key",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box/Data/Access Key",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{91C7E3D7-6A69-4EA7-9F1E-58596926CD5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.3976217Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Czech Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Czech Republic",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

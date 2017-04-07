@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18C9CE30-76A1-45CE-91B2-DADBB0B94D0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:56.8585060Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Close Tab",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Close Tab",
+    "template": "Tab Option",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

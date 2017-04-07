@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0977BD7-F566-4BAE-AF01-DE070BAFF140}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:32.5259778Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Message Language",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account/Information/Message Language",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

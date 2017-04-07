@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7990FAD8-AC75-4D29-A48D-1ED6D29E8C63}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:57.6299819Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Personalization Test Workflow Command",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Deploy Associated Tests Action/Associated Tests/Personalization Test Workflow Command",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

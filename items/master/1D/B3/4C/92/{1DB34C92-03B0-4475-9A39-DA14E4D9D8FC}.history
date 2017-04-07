@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1DB34C92-03B0-4475-9A39-DA14E4D9D8FC}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:23.3614537Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Large Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Button",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

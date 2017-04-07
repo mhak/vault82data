@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49DBF157-8C47-41D7-BB8F-6B8151B5405C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:40.4670002Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Owner",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Owner",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

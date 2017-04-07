@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF3F3111-FED3-41FC-A4F4-8BA9744E2B65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:29.7223857Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

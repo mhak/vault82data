@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69E6848C-AC9D-49A7-960A-7AE4E413EDEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:31.6804977Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Multilist",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Multilist",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE7BE82C-CF2F-4D05-80D3-665528AE6033}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:50.0781182Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Visitors Classification",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visitors Classification",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07CE07CB-078C-415E-8F92-96690BABD6C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:47.7514169Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Time interval",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan State/Data/Time interval",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

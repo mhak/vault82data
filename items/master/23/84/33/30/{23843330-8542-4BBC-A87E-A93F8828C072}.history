@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23843330-8542-4BBC-A87E-A93F8828C072}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:15.7191529Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Christian 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Christian 128x128",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

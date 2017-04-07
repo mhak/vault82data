@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{53173ABB-B8AB-404B-BB30-AB625A8236CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:04.1959257Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "May",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year/Month List/May",
+    "template": "Standard template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

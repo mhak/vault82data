@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{981723C2-61F9-472F-A481-16DB7B9D53A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:46.6829240Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Tunisia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tunisia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

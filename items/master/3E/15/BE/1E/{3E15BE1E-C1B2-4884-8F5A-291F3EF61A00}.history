@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E15BE1E-C1B2-4884-8F5A-291F3EF61A00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:32.3271029Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "visitor is existing customer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Rules/visitor is existing customer",
+    "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

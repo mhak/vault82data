@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9329A198-16F5-42F4-A0A5-19D5A090BFA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:26.5317714Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Google Plus",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Google Plus",
+    "template": "Campaign Category",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

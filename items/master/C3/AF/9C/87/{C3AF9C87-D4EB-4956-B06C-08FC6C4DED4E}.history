@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3AF9C87-D4EB-4956-B06C-08FC6C4DED4E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:45.1717011Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "meng4",
+    "itemPath": "/sitecore/templates/Test/ContentChild/section/meng4",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

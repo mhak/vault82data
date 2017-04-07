@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{751E1934-F317-4F8D-AE92-5D14B6CB39FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:39.6293841Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Tagging",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tagging/Tagging",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

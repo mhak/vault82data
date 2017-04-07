@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38F71A5F-E83F-4389-B992-89461DF5C7DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:35.7111600Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "LinkedIn Share Button Parameters",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/LinkedIn Share Button Parameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F6B863C-AB1F-46D0-82CB-A733F71F3FCF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:00.2647008Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "XCentium Vault",
+    "itemPath": "/sitecore/system/Settings/Rules/XCentium Vault",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

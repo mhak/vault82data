@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B69C4A07-C3DA-4B14-AA8C-B2022F6FA3DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:12.4783994Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Is Original Winner",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Is Original Winner",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

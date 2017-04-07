@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0AE33DC-0CDB-4E18-B69F-885457F42E68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:41.3810525Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Html Editor Profiles",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF6B8EE3-9FFB-4C58-9CB4-301C1C710F89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:30.1179765Z",
+    "label": "Snapshot - 3",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Opportunity",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Opportunity",
+    "template": "Outcome Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

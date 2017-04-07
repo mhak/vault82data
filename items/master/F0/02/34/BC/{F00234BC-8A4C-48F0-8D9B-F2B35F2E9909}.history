@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F00234BC-8A4C-48F0-8D9B-F2B35F2E9909}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:34.4090856Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Metadata",
+    "itemPath": "/sitecore/templates/System/Social/Message/Message/Metadata",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

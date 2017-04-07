@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E971E2BF-06BE-4DC7-BFBE-5464A5E68326}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:26.3057585Z",
+    "label": "Snapshot - 3",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "LinkedIn Share",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/LinkedIn Share",
+    "template": "Goal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

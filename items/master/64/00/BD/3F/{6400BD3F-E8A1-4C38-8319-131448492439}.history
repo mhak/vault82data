@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6400BD3F-E8A1-4C38-8319-131448492439}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:23.8634824Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Tool Button New Line",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button New Line",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

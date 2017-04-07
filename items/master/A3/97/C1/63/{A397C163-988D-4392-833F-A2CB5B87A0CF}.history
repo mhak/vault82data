@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A397C163-988D-4392-833F-A2CB5B87A0CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.8586480Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Fiji",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Fiji",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

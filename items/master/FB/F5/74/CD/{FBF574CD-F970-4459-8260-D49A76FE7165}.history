@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBF574CD-F970-4459-8260-D49A76FE7165}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:53.3273040Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Business Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Business Overview/Business Overview",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

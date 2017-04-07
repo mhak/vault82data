@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{036DB470-1850-4848-A48A-0931F825B867}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:47.7824187Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Domain Matcher",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Domain Matcher",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

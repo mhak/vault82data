@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF36505E-A70A-4414-A9AE-AE26DB86FE19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:43.3385963Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Appearance Evaluator Type",
+    "itemPath": "/sitecore/templates/System/Workflow/Command/Data/Appearance Evaluator Type",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

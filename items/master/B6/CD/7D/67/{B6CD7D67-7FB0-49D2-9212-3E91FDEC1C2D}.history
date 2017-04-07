@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6CD7D67-7FB0-49D2-9212-3E91FDEC1C2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:57.6815531Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Is Mv Test",
+    "itemPath": "/sitecore/system/Settings/Content Testing/End Test Behavior/Is Mv Test",
+    "template": "Rule Container",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

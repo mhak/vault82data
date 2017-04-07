@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4100BA5-A3CA-440F-BAC2-C0CB325333C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:53.7327590Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Historical Test Data",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

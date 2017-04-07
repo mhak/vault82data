@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E265978-8C1B-419D-BC06-0B5D101F04DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:37.8924212Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Traffic Type",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6BC1B34-38E3-4AD4-B2AE-747A3D95E269}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:27.6116968Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Icon",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button/Data/Icon",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

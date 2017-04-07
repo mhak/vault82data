@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E44F2D64-1EED-42FF-A7DA-C07B834096AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:35.3937101Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Reject",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Reject",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

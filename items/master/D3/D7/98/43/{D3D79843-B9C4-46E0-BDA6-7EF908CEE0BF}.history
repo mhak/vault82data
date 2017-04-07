@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3D79843-B9C4-46E0-BDA6-7EF908CEE0BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:37.7244116Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Pattern Matching Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Pattern Matching Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

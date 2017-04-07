@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9409DA1-2614-4CFF-AD9B-6ED1A1688B33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:01.3601953Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Cacheable",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Caching/Cacheable",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{066F5D7E-C237-461A-96DF-9EB58AAF8582}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:22.7685561Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Display",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Display",
+    "template": "Channel group",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

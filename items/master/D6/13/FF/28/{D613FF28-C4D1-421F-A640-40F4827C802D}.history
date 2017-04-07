@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D613FF28-C4D1-421F-A640-40F4827C802D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:15.8681615Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Julie 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Julie 128x128",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

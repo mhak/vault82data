@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61CF7151-0CBD-4DB4-9738-D753A55A6E65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:37.3702549Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Enforce version presence",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Enforce version presence",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

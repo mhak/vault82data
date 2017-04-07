@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:35.1936986Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Approved",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Approved",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

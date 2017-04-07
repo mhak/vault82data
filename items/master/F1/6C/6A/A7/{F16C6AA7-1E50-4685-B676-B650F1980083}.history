@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F16C6AA7-1E50-4685-B676-B650F1980083}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:34.0930675Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Calls per day",
+    "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/Key Rate Limits/Calls per day",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

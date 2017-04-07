@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23B07DD2-7159-4A78-BB68-49D23D806110}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:59.4150840Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Location",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Location",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{950412C8-659D-4857-9695-943F12A25224}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:49.4110800Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Organization Units",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Units",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

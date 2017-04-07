@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1DDE828C-46F5-4D8D-AC76-97D1D4E5C192}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:42.3186744Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Grenada",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Grenada",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D513BB60-0A3D-4F73-AC2D-F398D343705A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:04.5269446Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Browser Supports HTML5 audio",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Browser Supports HTML5 audio",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

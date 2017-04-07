@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8A36C49-3C43-405E-A074-8DECB6F483E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:26.8422210Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Goals",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Goals",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

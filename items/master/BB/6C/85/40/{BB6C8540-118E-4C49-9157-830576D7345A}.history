@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BB6C8540-118E-4C49-9157-830576D7345A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:39.8573972Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Reminder text",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks/Tasks/__Reminder text",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

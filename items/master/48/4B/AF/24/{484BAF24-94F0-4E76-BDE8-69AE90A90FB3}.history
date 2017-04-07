@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{484BAF24-94F0-4E76-BDE8-69AE90A90FB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:08.7156160Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Parameters",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Trait/Data/Parameters",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

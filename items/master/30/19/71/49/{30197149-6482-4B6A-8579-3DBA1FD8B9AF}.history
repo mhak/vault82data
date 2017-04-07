@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30197149-6482-4B6A-8579-3DBA1FD8B9AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:12.3113898Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Warn",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Log Message/Log Level/Warn",
+    "template": "Standard template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

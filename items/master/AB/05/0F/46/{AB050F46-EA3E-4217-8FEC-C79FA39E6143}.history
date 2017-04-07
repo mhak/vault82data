@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB050F46-EA3E-4217-8FEC-C79FA39E6143}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:40.2845580Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Barbados",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Barbados",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

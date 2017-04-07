@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5CACE390-E862-4ACC-BFD5-2F26C5883F45}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:08.3165932Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Simulator Rotated State",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Simulator Rotated State",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CBE25853-2A04-4393-8440-109781F10379}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:55.1358393Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Datasource",
+    "itemPath": "/sitecore/templates/System/Content Testing/Content Test Value/Data/Datasource",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

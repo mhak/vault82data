@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DBB82699-FEE0-4A1E-9B52-FACC436925C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:19.9313939Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Messages",
+    "itemPath": "/sitecore/social/Messages",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

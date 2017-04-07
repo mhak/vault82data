@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF2D7FDA-0687-4C1B-901F-849BC1FA7F6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:52.2462422Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Site Health",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

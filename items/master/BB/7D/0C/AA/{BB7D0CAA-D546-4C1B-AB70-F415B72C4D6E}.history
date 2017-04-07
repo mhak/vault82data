@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BB7D0CAA-D546-4C1B-AB70-F415B72C4D6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:04.8549634Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Hardware Display Width",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Hardware Display Width",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

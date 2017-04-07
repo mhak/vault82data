@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA4F6592-596F-42AC-A3D0-7FB7B70D6E00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:18.8501956Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ID3",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49832136-B174-4F7E-A0C3-EA44AC116DD7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:26.9292259Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "MVC Models",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/MVC Models",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

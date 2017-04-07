@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{06751E29-D91B-423C-A2E1-E54AFD4F8F0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:34.1280695Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Social Marketer Message",
+    "itemPath": "/sitecore/templates/System/Social/Message/Social Marketer Message",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

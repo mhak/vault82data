@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BC99181-D16F-4E42-A914-8877874E2552}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:17.0822309Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ch-google-search",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-google-search",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

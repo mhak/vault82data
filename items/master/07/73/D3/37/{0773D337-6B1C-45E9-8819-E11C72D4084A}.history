@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0773D337-6B1C-45E9-8819-E11C72D4084A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:43.6967532Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Macedonia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Macedonia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

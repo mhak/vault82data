@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{79009932-8399-4DBC-B1BE-E9A682041FFF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:43.1317209Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Jersey",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jersey",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

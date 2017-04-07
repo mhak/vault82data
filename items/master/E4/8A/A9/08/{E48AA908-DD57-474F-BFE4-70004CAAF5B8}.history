@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E48AA908-DD57-474F-BFE4-70004CAAF5B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:47.0679460Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Vanuatu",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Vanuatu",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

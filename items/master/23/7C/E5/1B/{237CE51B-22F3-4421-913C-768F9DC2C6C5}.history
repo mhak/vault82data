@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{237CE51B-22F3-4421-913C-768F9DC2C6C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:00.0191186Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Geo Longitude",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Location/Geo Longitude",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

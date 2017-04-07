@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27586B75-A6FD-43CF-924F-5A07824E9716}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:36.1563219Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Visitor Information",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Visitor Information",
+    "template": "Accordion",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

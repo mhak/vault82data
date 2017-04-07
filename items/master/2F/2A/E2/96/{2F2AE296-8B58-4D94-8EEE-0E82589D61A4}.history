@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F2AE296-8B58-4D94-8EEE-0E82589D61A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:50.1415536Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Show in Page Events",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Experience Profile Options/Show in Page Events",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

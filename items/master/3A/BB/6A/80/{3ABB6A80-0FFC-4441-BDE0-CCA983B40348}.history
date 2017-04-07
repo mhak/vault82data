@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3ABB6A80-0FFC-4441-BDE0-CCA983B40348}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:54.7918196Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Code",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Strategy/Test Variable Strategy Script/Code",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

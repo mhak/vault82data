@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{062A1E69-0BF6-4D6D-AC4F-C11D0F7DC1E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:20.5484292Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Outcomes",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

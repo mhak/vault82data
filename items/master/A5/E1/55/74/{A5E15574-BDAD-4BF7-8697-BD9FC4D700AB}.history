@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A5E15574-BDAD-4BF7-8697-BD9FC4D700AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:04.9689699Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Bot",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Type/Device Types/Bot",
+    "template": "Standard template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F16382F0-E2C1-422F-86F7-A97C68206885}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:43.4521710Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Campaign group",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Campaign group",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

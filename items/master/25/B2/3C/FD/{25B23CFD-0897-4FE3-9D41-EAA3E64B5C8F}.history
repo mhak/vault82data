@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{25B23CFD-0897-4FE3-9D41-EAA3E64B5C8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:11.7753592Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Send Associated Messages",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Send Associated Messages",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

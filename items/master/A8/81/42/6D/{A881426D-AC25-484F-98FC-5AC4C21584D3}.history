@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A881426D-AC25-484F-98FC-5AC4C21584D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:37.8074163Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Profile Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Types",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

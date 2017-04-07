@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0D0E309-67C6-4DF1-9481-3176AA231788}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:18.5211768Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Exif",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

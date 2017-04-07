@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{425F0F4C-A4E8-42BE-B8C2-065FE1303D48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:51.2466168Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Interests",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Interests",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

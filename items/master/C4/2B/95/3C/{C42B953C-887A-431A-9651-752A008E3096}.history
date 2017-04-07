@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C42B953C-887A-431A-9651-752A008E3096}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:14.3685075Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Internal Search Keywords",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Internal Search Keywords",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

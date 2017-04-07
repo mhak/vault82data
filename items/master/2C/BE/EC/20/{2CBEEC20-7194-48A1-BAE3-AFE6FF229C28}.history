@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2CBEEC20-7194-48A1-BAE3-AFE6FF229C28}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:30.5510013Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Assets maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default maps/Global maps/Assets maps",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

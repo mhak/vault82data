@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E5AB7CA-FB40-49BD-849E-7BFF28BB16F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.6616368Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Eritrea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Eritrea",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

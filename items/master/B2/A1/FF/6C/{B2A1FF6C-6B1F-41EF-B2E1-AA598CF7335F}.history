@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2A1FF6C-6B1F-41EF-B2E1-AA598CF7335F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:01.6742132Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Setting group",
+    "itemPath": "/sitecore/templates/System/Html editor/Setting group",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

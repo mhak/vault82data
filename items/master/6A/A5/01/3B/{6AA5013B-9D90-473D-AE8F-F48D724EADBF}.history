@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6AA5013B-9D90-473D-AE8F-F48D724EADBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:59.7651040Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Classify As",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Visitor Information/Classify As",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

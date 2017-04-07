@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3AE2C9E6-8000-40EE-9693-ED7BAEE50A66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:44.5952364Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Custom group",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom group",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

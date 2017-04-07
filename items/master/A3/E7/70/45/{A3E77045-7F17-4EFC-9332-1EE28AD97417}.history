@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3E77045-7F17-4EFC-9332-1EE28AD97417}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:17.8682759Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Campaign Registration Failed",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Campaign Registration Failed",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

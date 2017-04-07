@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{20B58253-2BA7-4D12-A202-7E66683999BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:26.9902294Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Outcomes",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Outcomes",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF584A6D-BF22-49E2-AB10-63F5AE88C7BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:07.5925517Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Rule",
+    "itemPath": "/sitecore/templates/System/Layout/Device/Detection/Rule",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

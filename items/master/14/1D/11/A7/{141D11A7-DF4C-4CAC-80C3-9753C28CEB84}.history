@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{141D11A7-DF4C-4CAC-80C3-9753C28CEB84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:05.8414516Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Saved Search/__Standard Values",
+    "template": "Saved Search",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8D2DD19-1347-4562-AE3F-310DC0B21A6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:13.7519040Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Caching",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:35.6127226Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Deployed",
+    "itemPath": "/sitecore/system/Workflows/Segment/Deployed",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

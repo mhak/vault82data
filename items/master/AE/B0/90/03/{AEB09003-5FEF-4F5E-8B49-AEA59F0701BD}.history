@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AEB09003-5FEF-4F5E-8B49-AEA59F0701BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:33.6081761Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Sandra",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Sandra",
+    "template": "Preset Persona",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

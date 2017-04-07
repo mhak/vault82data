@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCB5958B-B0F5-441A-9634-2E4C73E7D062}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:48.6630372Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Slider",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Slider",
+    "template": "Profile Key Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

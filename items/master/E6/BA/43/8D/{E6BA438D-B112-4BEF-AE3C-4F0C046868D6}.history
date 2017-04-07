@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6BA438D-B112-4BEF-AE3C-4F0C046868D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:19.5053695Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Feature Phone",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Feature Phone",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

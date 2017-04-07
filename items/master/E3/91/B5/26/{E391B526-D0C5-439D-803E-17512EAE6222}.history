@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E391B526-D0C5-439D-803E-17512EAE6222}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:08.0455776Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Allowed Controls",
+    "itemPath": "/sitecore/templates/System/Layout/Placeholder/Data/Allowed Controls",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C8D760A2-7CA9-405C-8869-CC1BD221CC28}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:36.2413267Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Profiles",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Onsite Behavior/Profiles",
+    "template": "Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

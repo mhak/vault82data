@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22EDCC9B-BD25-442F-B685-4CFC8656F653}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:13.8560464Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Login with LinkedIn",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with LinkedIn",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

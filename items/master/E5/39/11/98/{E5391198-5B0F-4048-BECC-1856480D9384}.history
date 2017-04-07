@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5391198-5B0F-4048-BECC-1856480D9384}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:19.3713618Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Android Phone_landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phone_landscape",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

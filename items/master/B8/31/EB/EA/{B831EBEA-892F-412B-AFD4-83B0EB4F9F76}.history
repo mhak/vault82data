@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B831EBEA-892F-412B-AFD4-83B0EB4F9F76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:33.2810210Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Base Login Button Parameters/__Standard Values",
+    "template": "Base Login Button Parameters",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7ADA27C2-E37C-4467-AC79-B91E22655C1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:20.4538556Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Context",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Context",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

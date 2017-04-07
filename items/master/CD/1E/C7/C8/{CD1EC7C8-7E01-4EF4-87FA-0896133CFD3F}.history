@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD1EC7C8-7E01-4EF4-87FA-0896133CFD3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:16.1056069Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Gender",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social/Gender",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

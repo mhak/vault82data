@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A674F3DC-FB14-4602-B123-FD493CBAFBA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.9906556Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "French Guiana",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/French Guiana",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

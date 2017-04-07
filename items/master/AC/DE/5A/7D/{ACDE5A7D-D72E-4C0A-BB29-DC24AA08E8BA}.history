@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ACDE5A7D-D72E-4C0A-BB29-DC24AA08E8BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:57.9815702Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Conversions By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Conversions By Test Id",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

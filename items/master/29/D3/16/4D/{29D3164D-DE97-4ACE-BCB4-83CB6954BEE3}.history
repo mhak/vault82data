@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{29D3164D-DE97-4ACE-BCB4-83CB6954BEE3}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:26.8286520Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Gallery",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Gallery Button/Data/Gallery",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

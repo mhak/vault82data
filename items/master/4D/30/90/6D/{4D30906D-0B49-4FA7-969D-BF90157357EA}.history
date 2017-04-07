@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D30906D-0B49-4FA7-969D-BF90157357EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:36.9442306Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Layout",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Layout",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9135200A-5626-4DD8-AB9D-D665B8C11748}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:39.2803642Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Never publish",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Publishing/Publishing/__Never publish",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

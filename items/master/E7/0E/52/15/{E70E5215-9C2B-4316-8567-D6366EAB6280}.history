@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E70E5215-9C2B-4316-8567-D6366EAB6280}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:45.8118742Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Serbia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Serbia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

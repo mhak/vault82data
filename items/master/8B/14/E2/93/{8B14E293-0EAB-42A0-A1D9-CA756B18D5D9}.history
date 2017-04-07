@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8B14E293-0EAB-42A0-A1D9-CA756B18D5D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:36.0277463Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Edit",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft/Edit",
+    "template": "Command",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

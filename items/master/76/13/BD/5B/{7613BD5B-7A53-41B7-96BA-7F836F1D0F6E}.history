@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7613BD5B-7A53-41B7-96BA-7F836F1D0F6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:42.8927072Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Iraq",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iraq",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

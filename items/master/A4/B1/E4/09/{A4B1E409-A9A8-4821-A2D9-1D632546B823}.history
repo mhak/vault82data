@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4B1E409-A9A8-4821-A2D9-1D632546B823}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:45.5258578Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Saint Martin",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Martin",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67759D75-62E4-4945-8199-913BBECD1879}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:37.3008192Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Analytics/Profile/$name",
+    "template": "Profile",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{29FB46B8-32D3-49CC-877B-1512215EB39A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:07.1820965Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Region",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Region",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

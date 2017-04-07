@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5217BE5-859D-494D-8A16-56DBD70F319D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:58.9036230Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Number of Sessions Above Average Value",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Deprecated/Number of Sessions Above Average Value",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

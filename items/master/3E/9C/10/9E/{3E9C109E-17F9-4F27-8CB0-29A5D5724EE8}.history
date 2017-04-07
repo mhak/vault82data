@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E9C109E-17F9-4F27-8CB0-29A5D5724EE8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:16.4601953Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ch-basket",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-basket",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5447EDF-FEDA-4878-8CE9-DF2DE42BC8D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:21.0334569Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Campaign facet 5",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Campaign facet 5",
+    "template": "Custom taxonomy",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

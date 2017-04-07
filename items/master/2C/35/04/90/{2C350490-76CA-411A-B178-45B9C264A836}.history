@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C350490-76CA-411A-B178-45B9C264A836}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:33.7656169Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Renderings",
+    "itemPath": "/sitecore/system/Toolbox/Renderings/Renderings",
+    "template": "Reference",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

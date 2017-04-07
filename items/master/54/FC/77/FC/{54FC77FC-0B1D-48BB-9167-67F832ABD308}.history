@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54FC77FC-0B1D-48BB-9167-67F832ABD308}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:07.0040863Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ISP Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/ISP Name",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

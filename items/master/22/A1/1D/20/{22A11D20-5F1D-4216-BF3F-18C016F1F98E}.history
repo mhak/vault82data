@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22A11D20-5F1D-4216-BF3F-18C016F1F98E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:20.0512643Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Package registration",
+    "itemPath": "/sitecore/templates/System/Packages/Package registration",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

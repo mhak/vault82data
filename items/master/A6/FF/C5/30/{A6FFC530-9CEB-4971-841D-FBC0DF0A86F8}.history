@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6FFC530-9CEB-4971-841D-FBC0DF0A86F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:29.5983786Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Common",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9FE6154A-A16E-4827-99F6-F51533C34EC8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:41.2544771Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Class",
+    "itemPath": "/sitecore/templates/System/Templates/Template field type/Data/Class",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

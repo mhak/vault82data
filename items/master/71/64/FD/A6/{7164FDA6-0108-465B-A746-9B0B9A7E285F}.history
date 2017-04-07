@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7164FDA6-0108-465B-A746-9B0B9A7E285F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:42.4811154Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Marketing Taxonomy",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

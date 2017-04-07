@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F364AC28-AE1C-4AEC-8B49-6329D11A9FC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:35.2691347Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Item Published",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration/Container/Item Published",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92FC298E-B921-4409-B400-2233754A46E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.7286406Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Ethiopia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ethiopia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

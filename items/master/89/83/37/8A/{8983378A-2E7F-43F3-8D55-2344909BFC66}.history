@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8983378A-2E7F-43F3-8D55-2344909BFC66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:45.8698775Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Sierra Leone",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sierra Leone",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0399700D-23E1-42BC-A8CA-F1A51190029A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:43.4656036Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Subject",
+    "itemPath": "/sitecore/templates/System/Workflow/Email action/Data/Subject",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

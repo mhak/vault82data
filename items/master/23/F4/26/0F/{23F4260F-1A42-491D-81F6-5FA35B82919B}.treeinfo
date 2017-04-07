@@ -1,0 +1,10 @@
+{
+  "itemName": "State Operators",
+  "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F222940D-920D-476A-BE82-CC950449DC3A}",
+  "childIds": [
+    "{658DFBD7-C788-42C9-BFF7-0E3CA244DF19}",
+    "{CC0B1A83-B6F3-4996-A8C5-F4E9B2895417}"
+  ]
+}

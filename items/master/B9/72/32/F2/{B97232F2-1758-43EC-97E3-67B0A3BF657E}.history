@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B97232F2-1758-43EC-97E3-67B0A3BF657E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:52.5266900Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "FilteringKey",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Configuration/FilteringKey",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

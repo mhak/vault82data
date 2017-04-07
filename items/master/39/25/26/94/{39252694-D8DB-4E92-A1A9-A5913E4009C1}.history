@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39252694-D8DB-4E92-A1A9-A5913E4009C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:46.7799295Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Turks and Caicos Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Turks and Caicos Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

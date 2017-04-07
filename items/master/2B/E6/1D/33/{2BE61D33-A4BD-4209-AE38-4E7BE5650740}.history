@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BE61D33-A4BD-4209-AE38-4E7BE5650740}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.4526248Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Djibouti",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Djibouti",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

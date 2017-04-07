@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{37AC831A-7CB4-4962-AEBD-A269649E5D35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:05.7054438Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Tag Parent",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Item Buckets Settings/Settings/Tag Parent",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

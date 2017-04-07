@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51CAFBDA-A980-4DEB-989A-AD288D76F5D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:36.4413382Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Experience",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Experience",
+    "template": "Accordion",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

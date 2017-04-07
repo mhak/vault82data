@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDAFB85B-1511-48B8-9374-2A8A1F371645}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:23.5686019Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Email marketing",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email campaigns/Email marketing",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

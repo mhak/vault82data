@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D83DDDE7-548A-485B-891B-EEE24B99CEAA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:52.0802327Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Local Searches on this Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Local Searches on this Page",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

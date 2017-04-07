@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD35FFE6-A608-477B-B775-3C92D3A4BC14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:00.0666895Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Rule Elements Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Rule Elements Visibility",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

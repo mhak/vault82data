@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B50CCF80-59D8-49D1-B021-B43F66191253}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:32.5955500Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Item is not referenced",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Links/Item is not referenced",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01E123EC-6642-4AAE-AEE8-985D49ED1647}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:49.0704923Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Sequence",
+    "itemPath": "/sitecore/templates/System/Analytics/Funnel/Data/Sequence",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

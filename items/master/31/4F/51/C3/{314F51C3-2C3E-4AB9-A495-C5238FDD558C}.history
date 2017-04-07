@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{314F51C3-2C3E-4AB9-A495-C5238FDD558C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:56.5514884Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Move Item List to Location",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Move Item List to Location",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

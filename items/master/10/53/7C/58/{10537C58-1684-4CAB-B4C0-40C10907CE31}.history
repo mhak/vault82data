@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10537C58-1684-4CAB-B4C0-40C10907CE31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:20.0368317Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "is equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/is equal to",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

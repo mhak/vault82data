@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EA13B1D-535E-426E-A859-EDC1EBA8671F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:49.3440762Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Organization Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Goals",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

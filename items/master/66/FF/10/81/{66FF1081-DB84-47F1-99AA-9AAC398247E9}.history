@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66FF1081-DB84-47F1-99AA-9AAC398247E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:31.3124766Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Remove Spaces",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/No Spaces/Remove Spaces",
+    "template": "Menu item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

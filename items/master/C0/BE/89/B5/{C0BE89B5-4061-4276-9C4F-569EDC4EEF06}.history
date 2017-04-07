@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0BE89B5-4061-4276-9C4F-569EDC4EEF06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:37.9774260Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Visitor Identifications",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

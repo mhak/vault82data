@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7C26117-DBB1-42B2-AB5E-F7223845CCA3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:37.9282868Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "__Thumbnail",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Thumbnail",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

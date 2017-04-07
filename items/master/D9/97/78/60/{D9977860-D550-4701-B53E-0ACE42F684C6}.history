@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9977860-D550-4701-B53E-0ACE42F684C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:15.9381655Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Tammie 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Tammie 128x128",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

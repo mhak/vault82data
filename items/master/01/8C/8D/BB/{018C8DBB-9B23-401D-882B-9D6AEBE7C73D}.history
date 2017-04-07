@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{018C8DBB-9B23-401D-882B-9D6AEBE7C73D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:43.2627283Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Kiribati",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kiribati",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

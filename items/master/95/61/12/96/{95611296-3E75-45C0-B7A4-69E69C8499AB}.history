@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{95611296-3E75-45C0-B7A4-69E69C8499AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:21.2218995Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Security",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Security",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7D9C03E-B618-4605-AC5A-E145260EADB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:00.4637122Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Order By Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Order By Operators",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

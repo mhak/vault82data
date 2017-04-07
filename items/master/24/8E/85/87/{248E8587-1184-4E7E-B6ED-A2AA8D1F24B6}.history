@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{248E8587-1184-4E7E-B6ED-A2AA8D1F24B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:18.1702931Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Logout",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Logout",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

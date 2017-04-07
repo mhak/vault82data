@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F848885-0AD3-44EE-8778-B95AB30EE1A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:58.2435852Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Reach For Item",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Reach For Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

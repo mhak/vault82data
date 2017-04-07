@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6612519-F19A-4C6D-BE36-6785396B7BE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:52.7227012Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Allow for User Agent",
+    "itemPath": "/sitecore/templates/System/Analytics/Visitor Identification/Data/Allow for User Agent",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

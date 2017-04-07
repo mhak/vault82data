@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08477468-D438-43D4-9D6A-6D84A611971C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:20.0974034Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Modules",
+    "itemPath": "/sitecore/system/Modules",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

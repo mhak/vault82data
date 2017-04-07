@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BA7E098-34EB-4A92-92C5-A091EF79906A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:03.3288761Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Device Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Context/Device Name",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

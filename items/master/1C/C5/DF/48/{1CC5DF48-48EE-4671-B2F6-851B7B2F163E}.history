@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CC5DF48-48EE-4671-B2F6-851B7B2F163E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:42.1040939Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Security",
+    "itemPath": "/sitecore/templates/System/Security",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

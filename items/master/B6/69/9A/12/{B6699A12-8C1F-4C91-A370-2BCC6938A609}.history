@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6699A12-8C1F-4C91-A370-2BCC6938A609}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:43.5266070Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Mail server",
+    "itemPath": "/sitecore/templates/System/Workflow/Email action/Data/Mail server",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A054ED98-B2AD-4346-808D-0FEB5EAFFF1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:48.9680547Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Contacts In State",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contacts In State",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

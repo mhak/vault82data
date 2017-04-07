@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6CD17305-54C8-45E0-8253-E81B47920D8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:14.0334883Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Venue of a past or current interaction",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Venue of a past or current interaction",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

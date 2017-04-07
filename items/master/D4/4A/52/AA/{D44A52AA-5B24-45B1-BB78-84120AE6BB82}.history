@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D44A52AA-5B24-45B1-BB78-84120AE6BB82}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:42.7667000Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Iceland",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iceland",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

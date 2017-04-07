@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F276B768-3573-43D9-8998-FAEE0973978D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:13.9360510Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Like Button",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Sharing/Like Button",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

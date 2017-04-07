@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{814C7598-3537-448E-8685-C2654053FBEC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:06.9955176Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Preset Folder",
+    "itemPath": "/sitecore/templates/System/Layout/Preset Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

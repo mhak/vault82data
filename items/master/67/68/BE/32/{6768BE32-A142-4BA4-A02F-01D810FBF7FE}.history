@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6768BE32-A142-4BA4-A02F-01D810FBF7FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:30.3039872Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

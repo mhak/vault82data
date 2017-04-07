@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3BD6181A-5838-47FD-AD7D-46C0D93F288A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:45.1848383Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Portugal",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Portugal",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

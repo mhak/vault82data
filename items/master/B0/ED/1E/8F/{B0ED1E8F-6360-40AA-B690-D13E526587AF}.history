@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0ED1E8F-6360-40AA-B690-D13E526587AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:43.2917300Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Korea Democratic Peoples Republic of",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Korea Democratic Peoples Republic of",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

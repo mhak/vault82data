@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1A652CD-501B-4B6C-BF69-D2ACB72A173E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:29.7178172Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Taxonomy",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Element Folder/Taxonomy",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

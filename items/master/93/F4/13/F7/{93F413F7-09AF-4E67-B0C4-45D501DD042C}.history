@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93F413F7-09AF-4E67-B0C4-45D501DD042C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:30.3704228Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Max Length Message",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Max Length Message",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

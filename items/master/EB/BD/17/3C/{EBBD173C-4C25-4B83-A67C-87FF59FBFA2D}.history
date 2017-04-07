@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EBBD173C-4C25-4B83-A67C-87FF59FBFA2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:50.5195752Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Matching",
+    "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Cards/Data/Matching",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

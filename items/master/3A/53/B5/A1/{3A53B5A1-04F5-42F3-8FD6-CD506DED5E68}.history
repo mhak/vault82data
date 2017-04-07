@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A53B5A1-04F5-42F3-8FD6-CD506DED5E68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:49.0550597Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Latest Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Visits",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

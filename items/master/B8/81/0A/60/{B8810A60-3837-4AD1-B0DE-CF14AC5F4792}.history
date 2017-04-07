@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8810A60-3837-4AD1-B0DE-CF14AC5F4792}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:33.1511500Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Cecile",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Cecile",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

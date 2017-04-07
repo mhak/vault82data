@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6EB62E8-7DE3-4F87-9EC3-050137A05DEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:32.2535305Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Only One Device Can Be Default",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Devices/Only One Device Can Be Default",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{391A8199-887B-4118-8CAF-2A49C38AE8EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:43.8977647Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Malta",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Malta",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

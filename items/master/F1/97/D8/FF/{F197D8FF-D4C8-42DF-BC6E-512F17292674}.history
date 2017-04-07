@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F197D8FF-D4C8-42DF-BC6E-512F17292674}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:27.4668249Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "By page",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By page",
+    "template": "Dimension",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

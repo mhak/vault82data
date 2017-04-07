@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1172755-83B7-426B-9BA3-F1C5D2CB6EED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:03.8229043Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Monday",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Day of Week/Days of week/Monday",
+    "template": "Standard template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D9232B0-613F-440B-A2FA-DCDD80FBD33E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:13.9669163Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "VaryByLogin",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/VaryByLogin",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

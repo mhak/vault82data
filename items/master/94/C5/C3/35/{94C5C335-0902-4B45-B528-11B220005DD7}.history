@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94C5C335-0902-4B45-B528-11B220005DD7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:09.9882570Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Run Script",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Script/Run Script",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

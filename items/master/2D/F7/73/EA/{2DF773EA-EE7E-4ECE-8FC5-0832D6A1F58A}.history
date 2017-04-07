@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2DF773EA-EE7E-4ECE-8FC5-0832D6A1F58A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:45.5578596Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Saint Pierre and Miquelon",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Pierre and Miquelon",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

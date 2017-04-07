@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C7BFE71-18E5-405E-8E8E-FAA4C337967F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:04.5609465Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Browser Supports HTML5 video",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Browser Supports HTML5 video",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

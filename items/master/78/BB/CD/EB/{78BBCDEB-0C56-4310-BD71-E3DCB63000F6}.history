@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78BBCDEB-0C56-4310-BD71-E3DCB63000F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:49.4420818Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Page Assets",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Page Assets",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

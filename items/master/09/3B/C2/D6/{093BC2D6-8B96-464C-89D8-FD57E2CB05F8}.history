@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{093BC2D6-8B96-464C-89D8-FD57E2CB05F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:00.4357106Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

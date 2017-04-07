@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B42DC05-5CF9-4DD5-9A3A-8BDF11BE2B88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:53.5803185Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Facets",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C05708AE-E897-4597-A33F-419CE3B45240}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:49.7975339Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Experience Profile Options",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Experience Profile Options",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

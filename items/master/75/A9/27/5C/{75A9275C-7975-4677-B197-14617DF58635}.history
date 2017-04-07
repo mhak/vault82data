@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75A9275C-7975-4677-B197-14617DF58635}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:20.7518726Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "GeoIP",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/GeoIP",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5E6E8A7-5465-48FD-B6D1-046E48809F07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:43.4956053Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Message",
+    "itemPath": "/sitecore/templates/System/Workflow/Email action/Data/Message",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

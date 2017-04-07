@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B4F16F7-728C-41C3-8631-D8D9AB01AA5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:16.4081924Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ch-analyst",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-analyst",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

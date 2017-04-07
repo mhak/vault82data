@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{90ED2B24-2EC3-4905-A1A8-73A33578B5BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:48.8510480Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Sum",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Sum",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

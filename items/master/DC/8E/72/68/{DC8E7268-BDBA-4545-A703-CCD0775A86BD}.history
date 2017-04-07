@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC8E7268-BDBA-4545-A703-CCD0775A86BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:24.3366458Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "SMS notifications",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/SMS campaigns/SMS notifications",
+    "template": "Channel",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

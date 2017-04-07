@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1F29110-70C2-4ADE-8341-64EB4B2A4442}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:22.5684083Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Window",
+    "itemPath": "/sitecore/templates/System/Portal/Portal/Data/Window",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

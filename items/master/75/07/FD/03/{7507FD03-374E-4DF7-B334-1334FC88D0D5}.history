@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7507FD03-374E-4DF7-B334-1334FC88D0D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:59.4750874Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "History",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/History",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98EF24BE-026F-40CE-BE27-933AD4A05BF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:19.0673445Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Android Phone",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phone",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

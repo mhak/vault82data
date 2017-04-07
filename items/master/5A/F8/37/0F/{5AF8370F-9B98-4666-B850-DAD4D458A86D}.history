@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5AF8370F-9B98-4666-B850-DAD4D458A86D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:26.7842176Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Facets",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Facets",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

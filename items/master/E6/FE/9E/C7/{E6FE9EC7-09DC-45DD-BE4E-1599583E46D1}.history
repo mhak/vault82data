@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6FE9EC7-09DC-45DD-BE4E-1599583E46D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:18.9403372Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Update Profile",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Update Profile",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

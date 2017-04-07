@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA1DECB2-B4F2-4AE0-99A8-30FDED9B8B50}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:29.3233629Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Logical",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Logical",
+    "template": "Child Sorting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

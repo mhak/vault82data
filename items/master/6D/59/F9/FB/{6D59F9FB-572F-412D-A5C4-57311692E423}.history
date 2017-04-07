@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D59F9FB-572F-412D-A5C4-57311692E423}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:51.2156150Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Family",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Family",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

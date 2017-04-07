@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{844F613C-FEBC-4737-892C-3A8138F5D98B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:52.2812442Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Recent Activity",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Recent Activity",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

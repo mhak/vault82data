@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1D03F74-FC26-485C-A042-7828C665F21C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:14.3030720Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "ProfileEditor",
+    "itemPath": "/sitecore/layout/Sublayouts/ExperienceExplorer/OnsiteBehaviour/Profiles/ProfileEditor",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

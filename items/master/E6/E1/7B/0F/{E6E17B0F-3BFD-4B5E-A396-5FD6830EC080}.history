@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6E17B0F-3BFD-4B5E-A396-5FD6830EC080}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:32.4155397Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Name Encoded Characters",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Name Encoded Characters",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{976107CF-BD0E-4C97-B864-C17A0799E319}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:46.6129200Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Tonga",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tonga",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

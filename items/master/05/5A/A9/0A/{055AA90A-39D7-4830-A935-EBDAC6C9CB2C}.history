@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{055AA90A-39D7-4830-A935-EBDAC6C9CB2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:11.9718022Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Customize Page",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Url Rendering/Editor Options/Customize Page",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

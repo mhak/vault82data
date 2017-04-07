@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35ABD142-200F-43F7-ADB6-0E10EDB82C0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:19.8612535Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Notification",
+    "itemPath": "/sitecore/templates/System/Notification/Notification",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

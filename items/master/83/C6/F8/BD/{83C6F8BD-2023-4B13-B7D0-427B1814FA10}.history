@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83C6F8BD-2023-4B13-B7D0-427B1814FA10}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:48.6280352Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Checkbox",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Checkbox",
+    "template": "Profile Key Control",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

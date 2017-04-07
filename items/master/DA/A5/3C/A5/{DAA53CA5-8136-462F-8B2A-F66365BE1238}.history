@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DAA53CA5-8136-462F-8B2A-F66365BE1238}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:37.8354179Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Report Queries",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

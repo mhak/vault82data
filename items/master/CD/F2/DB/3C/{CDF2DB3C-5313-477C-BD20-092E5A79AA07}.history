@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CDF2DB3C-5313-477C-BD20-092E5A79AA07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:00.6967255Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Campaigns",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BFFAF94-F523-452A-9F2A-1FA3292D4647}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:26.6767797Z",
+    "label": "Snapshot - 3",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Facebook Content Messages",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook/Facebook Content Messages",
+    "template": "Campaign",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

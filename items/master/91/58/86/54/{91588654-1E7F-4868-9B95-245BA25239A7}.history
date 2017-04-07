@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{91588654-1E7F-4868-9B95-245BA25239A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:43.2337267Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Kenya",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kenya",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

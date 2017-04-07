@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54EB5C9A-822E-43A4-BD60-63C9F2C63C74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:32.3195342Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Duplicate Name",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Duplicate Name",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

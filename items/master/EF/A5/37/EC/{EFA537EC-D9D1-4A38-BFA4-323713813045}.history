@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFA537EC-D9D1-4A38-BFA4-323713813045}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:59.6350966Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Image",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Data/Image",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71E2DDD8-94BE-4756-B472-46CA60290EBE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:57.0985197Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "14",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012/11/14",
+    "template": "Bucket",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

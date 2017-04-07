@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35F5423B-8C70-4C13-A179-61E0FE3EF920}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:07.0400883Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Latitude",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Latitude",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

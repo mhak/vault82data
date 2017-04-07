@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4549EB29-846C-4682-80B6-FD2CBA0C1C51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:57.0399482Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Original Value",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Variable/Data/Original Value",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

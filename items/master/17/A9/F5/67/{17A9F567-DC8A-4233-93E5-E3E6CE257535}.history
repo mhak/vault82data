@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{17A9F567-DC8A-4233-93E5-E3E6CE257535}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:33.6750436Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Application",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with LinkedIn Button Parameters/Social/Application",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

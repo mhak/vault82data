@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{366A7C36-122B-4709-B556-38F1F18F3089}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:31.9865152Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Links",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Links",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32416A95-4197-4D33-8CE7-7BB4FFEBEB42}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:29.3953670Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Updated",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Updated",
+    "template": "Child Sorting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

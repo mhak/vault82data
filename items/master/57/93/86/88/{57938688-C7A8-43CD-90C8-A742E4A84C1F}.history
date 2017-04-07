@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57938688-C7A8-43CD-90C8-A742E4A84C1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:44.4857983Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Netherlands Antilles",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Netherlands Antilles",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69BA9257-7D03-4B4E-9507-E7C42C871D15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:31.8265060Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "server file",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/server file",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

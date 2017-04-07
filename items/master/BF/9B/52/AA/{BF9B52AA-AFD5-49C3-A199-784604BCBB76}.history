@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF9B52AA-AFD5-49C3-A199-784604BCBB76}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:58.4975997Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Test Potential",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Test Potential",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

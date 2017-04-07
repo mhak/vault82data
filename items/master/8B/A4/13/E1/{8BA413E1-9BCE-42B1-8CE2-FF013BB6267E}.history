@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BA413E1-9BCE-42B1-8CE2-FF013BB6267E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.0876039Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Cocos Keeling Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cocos Keeling Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

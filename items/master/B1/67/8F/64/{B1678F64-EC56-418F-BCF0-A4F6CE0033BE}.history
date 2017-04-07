@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B1678F64-EC56-418F-BCF0-A4F6CE0033BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:01.7802193Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Reference class",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Class/Data/Reference class",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

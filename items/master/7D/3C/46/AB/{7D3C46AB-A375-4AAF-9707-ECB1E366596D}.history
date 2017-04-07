@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D3C46AB-A375-4AAF-9707-ECB1E366596D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:41.7916442Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Falkland Islands Malvinas",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Falkland Islands Malvinas",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

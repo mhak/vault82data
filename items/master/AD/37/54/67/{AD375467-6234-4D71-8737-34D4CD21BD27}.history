@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD375467-6234-4D71-8737-34D4CD21BD27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:53.9503396Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Create Date Author",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Create Date Author",
+    "template": "Facet",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

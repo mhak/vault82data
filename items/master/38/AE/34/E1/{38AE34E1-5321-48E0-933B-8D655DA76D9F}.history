@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38AE34E1-5321-48E0-933B-8D655DA76D9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:37.1268092Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Templates",
+    "itemPath": "/sitecore/templates/Branches/System/Templates",
+    "template": "Branch Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

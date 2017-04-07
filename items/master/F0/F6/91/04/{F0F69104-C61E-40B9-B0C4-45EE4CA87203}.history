@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0F69104-C61E-40B9-B0C4-45EE4CA87203}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:45.0986970Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Content",
+    "itemPath": "/sitecore/templates/Test/Content/Content/Content",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

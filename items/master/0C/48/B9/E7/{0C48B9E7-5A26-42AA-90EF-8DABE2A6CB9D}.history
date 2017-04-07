@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C48B9E7-5A26-42AA-90EF-8DABE2A6CB9D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:22.9164282Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Value",
+    "itemPath": "/sitecore/templates/System/Property/Data/Value",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

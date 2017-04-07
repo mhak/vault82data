@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93F3A8FA-9E5A-4848-A5AD-42AAD11A4871}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:37.1292411Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Tasks",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

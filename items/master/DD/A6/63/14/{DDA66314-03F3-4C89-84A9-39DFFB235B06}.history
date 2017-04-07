@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:29.5298065Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Rules Context Folder",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Rules Context Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

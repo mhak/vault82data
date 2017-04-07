@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6674A4AF-EACE-445E-89F1-E2F464026056}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:55:43.2181576Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Report",
+    "itemPath": "/sitecore/templates/System/Analytics/Report",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8B91C434-5AC1-422D-A2E7-44D2DA817753}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:59.2226412Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Personalization",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Test Types/Personalization",
+    "template": "Test Type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

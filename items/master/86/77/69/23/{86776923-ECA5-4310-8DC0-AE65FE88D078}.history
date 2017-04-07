@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86776923-ECA5-4310-8DC0-AE65FE88D078}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:09.5456634Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Item rendering",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Item rendering",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

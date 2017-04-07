@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0C1DCFD-3D90-478F-864F-D448D9467ABB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:54:19.4363656Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Android Tablet_landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Tablet_landscape",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

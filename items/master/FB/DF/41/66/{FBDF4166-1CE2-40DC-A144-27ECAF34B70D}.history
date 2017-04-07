@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBDF4166-1CE2-40DC-A144-27ECAF34B70D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-04-07T18:56:44.9926909Z",
+    "label": "Snapshot - 3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Content",
+    "itemPath": "/sitecore/templates/Test/Content",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
