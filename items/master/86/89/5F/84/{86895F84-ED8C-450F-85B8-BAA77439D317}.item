@@ -13,7 +13,7 @@ created: 20170320T171540Z
 ----version----
 language: en
 version: 1
-revision: 7bbe8b7c-4e3d-448e-a2d3-79e0dc485daf
+revision: 8984ff51-d640-4256-a96b-254616b2f110
 
 ----field----
 field: {F0F69104-C61E-40B9-B0C4-45EE4CA87203}
@@ -21,7 +21,7 @@ name: Content
 key: content
 content-length: 21
 
-content from stiecore
+content from sitecore
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -49,14 +49,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7bbe8b7c-4e3d-448e-a2d3-79e0dc485daf
+8984ff51-d640-4256-a96b-254616b2f110
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170320T171551Z
+20170522T223923Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
