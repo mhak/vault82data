@@ -1,0 +1,19 @@
+{
+  "id": "31176401-b58a-4f6e-b8ab-473f6af4851d",
+  "releaseName": "deploy",
+  "lastModified": "2017-05-22T22:46:43.0314922Z",
+  "lastDeployed": "0001-01-01T00:00:00",
+  "lastRollback": "0001-01-01T00:00:00",
+  "releaseItems": [
+    {
+      "database": "master",
+      "recursive": false,
+      "installMode": 0,
+      "sitecoreItemId": "{86895F84-ED8C-450F-85B8-BAA77439D317}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    }
+  ],
+  "serverDeployments": null
+}
