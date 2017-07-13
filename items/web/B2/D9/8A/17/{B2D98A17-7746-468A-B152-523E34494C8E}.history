@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{B2D98A17-7746-468A-B152-523E34494C8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-07-13T19:40:06.8955392Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "content",
+    "itemPath": "/sitecore/layout/Renderings/content",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
