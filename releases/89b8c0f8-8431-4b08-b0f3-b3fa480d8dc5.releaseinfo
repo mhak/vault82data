@@ -1,0 +1,19 @@
+{
+  "id": "89b8c0f8-8431-4b08-b0f3-b3fa480d8dc5",
+  "releaseName": "test",
+  "lastModified": "2017-07-20T23:53:02.685207Z",
+  "lastDeployed": "0001-01-01T00:00:00",
+  "lastRollback": "0001-01-01T00:00:00",
+  "releaseItems": [
+    {
+      "database": "master",
+      "recursive": false,
+      "installMode": 0,
+      "sitecoreItemId": "{86895F84-ED8C-450F-85B8-BAA77439D317}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    }
+  ],
+  "serverDeployments": null
+}
