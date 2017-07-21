@@ -1,7 +1,7 @@
 {
   "id": "89b8c0f8-8431-4b08-b0f3-b3fa480d8dc5",
   "releaseName": "test",
-  "lastModified": "2017-07-21T00:01:08.4829931Z",
+  "lastModified": "2017-07-21T00:02:33.7068676Z",
   "lastDeployed": "0001-01-01T00:00:00",
   "lastRollback": "0001-01-01T00:00:00",
   "releaseItems": [
@@ -9,7 +9,7 @@
       "database": "master",
       "recursive": false,
       "installMode": 0,
-      "sitecoreItemId": "{86895F84-ED8C-450F-85B8-BAA77439D317}",
+      "sitecoreItemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
