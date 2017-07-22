@@ -10,10 +10,45 @@ template: {F68F13A6-3395-426A-B9A1-FA2DC60D94EB}
 templatekey: Language
 created: 20170722T050151Z
 
+----field----
+field: {49E5E8F3-ED4A-4A06-ABE1-B9408951DEE9}
+name: Charset
+key: charset
+content-length: 10
+
+iso-8859-1
+----field----
+field: {990596CE-0024-43F3-BF4C-A991BFA69B45}
+name: Code page
+key: code page
+content-length: 5
+
+65001
+----field----
+field: {8728D8FF-66D9-40C2-8B34-C4FC1466942E}
+name: Encoding
+key: encoding
+content-length: 5
+
+utf-8
+----field----
+field: {C437E416-8948-427D-A982-8ED37AE3F553}
+name: Iso
+key: iso
+content-length: 2
+
+en
+----field----
+field: {0620F810-9294-4F14-AF9F-F5772EFCA0B2}
+name: Regional Iso Code
+key: regional iso code
+content-length: 5
+
+en-AU
 ----version----
 language: en
 version: 1
-revision: ae437ffb-4db2-47ec-99c0-df0ea65bfc57
+revision: 2acc0055-63de-46df-b835-fc3bda51809c
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +77,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ae437ffb-4db2-47ec-99c0-df0ea65bfc57
+2acc0055-63de-46df-b835-fc3bda51809c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
