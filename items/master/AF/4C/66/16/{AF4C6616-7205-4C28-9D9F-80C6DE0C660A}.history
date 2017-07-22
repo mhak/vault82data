@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AF4C6616-7205-4C28-9D9F-80C6DE0C660A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-07-22T05:01:51.8356640Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "en-AU",
+    "itemPath": "/sitecore/system/Languages/en-AU",
+    "template": "Language",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
