@@ -72,13 +72,13 @@ sitecore\Admin
 ----version----
 language: en
 version: 2
-revision: e0dac859-558c-4ed8-831a-f96ea02ec791
+revision: aed2ad1f-1fb7-4bdd-8e31-8e045ac1bc0a
 
 ----field----
 field: {F0F69104-C61E-40B9-B0C4-45EE4CA87203}
 name: Content
 key: content
-content-length: 71
+content-length: 81
 
 content from sitecore
 line<br />
@@ -86,6 +86,7 @@ line<br />
 line<br />
 line<br />
 line3
+version 2
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
 name: __Valid from
@@ -120,14 +121,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e0dac859-558c-4ed8-831a-f96ea02ec791
+aed2ad1f-1fb7-4bdd-8e31-8e045ac1bc0a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170723T224841Z
+20170723T225418Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
