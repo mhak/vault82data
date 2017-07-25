@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{D3D8E65B-7026-4DF1-AADE-906B9257B1DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-07-25T04:19:40.2385505Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "test",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/test",
+    "template": "Vault Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
