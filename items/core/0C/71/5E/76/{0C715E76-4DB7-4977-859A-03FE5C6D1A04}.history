@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{0C715E76-4DB7-4977-859A-03FE5C6D1A04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-07-25T04:20:01.4567642Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "DatabasesDS-Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DatabasesDS/DatabasesDS-Parameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

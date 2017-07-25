@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{E07F0766-3975-42E3-8C37-4B90DECD179A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-07-25T04:20:01.4557641Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "DataSource",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

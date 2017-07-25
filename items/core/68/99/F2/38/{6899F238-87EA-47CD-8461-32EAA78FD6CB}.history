@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6899F238-87EA-47CD-8461-32EAA78FD6CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-07-25T04:20:01.4557641Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Vault",
+    "itemPath": "/sitecore/client/Your Apps/Vault",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
