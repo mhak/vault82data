@@ -1,0 +1,19 @@
+{
+  "id": "6165992e-d47c-447c-87ae-3bacbb40f48d",
+  "releaseName": "image",
+  "lastModified": "2017-07-25T21:10:26.5067003Z",
+  "lastDeployed": "0001-01-01T00:00:00",
+  "lastRollback": "0001-01-01T00:00:00",
+  "releaseItems": [
+    {
+      "database": "master",
+      "recursive": false,
+      "installMode": 0,
+      "sitecoreItemId": "{D53DED06-E88F-4ABA-90FF-DC725098A7A7}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    }
+  ],
+  "serverDeployments": null
+}
