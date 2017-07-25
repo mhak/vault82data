@@ -1,7 +1,7 @@
 {
   "id": "7fd64d57-5361-45c2-8cc4-16771bef2f15",
   "releaseName": "test2",
-  "lastModified": "2017-07-25T20:53:34.0427907Z",
+  "lastModified": "2017-07-25T20:55:16.0056226Z",
   "lastDeployed": "0001-01-01T00:00:00",
   "lastRollback": "0001-01-01T00:00:00",
   "releaseItems": [
@@ -64,6 +64,15 @@
       "recursive": true,
       "installMode": 1,
       "sitecoreItemId": "{1930BBEB-7805-471A-A3BE-4858AC7CF696}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 0,
+      "sitecoreItemId": "{9130B44A-8FD5-48D6-94FF-EC03449475AB}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
