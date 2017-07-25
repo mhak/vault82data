@@ -3,7 +3,7 @@
   "releaseName": "test2",
   "lastModified": "2017-07-25T20:57:49.7184145Z",
   "lastDeployed": "2017-07-25T14:01:43.5787906-07:00",
-  "lastRollback": "2017-07-25T13:59:53.9385195-07:00",
+  "lastRollback": "2017-07-25T14:03:31.7309765-07:00",
   "releaseItems": [
     {
       "database": "master",
@@ -20,7 +20,7 @@
       "server": "http://sitecore82initial",
       "items": "master:{13E59F80-4DB7-4A09-A0A5-F856FB38CF49}?mode=Merge&autopublish=False",
       "lastDeployment": "2017-07-25T14:01:43.5787906-07:00",
-      "lastRollback": "2017-07-25T13:59:53.9385195-07:00",
+      "lastRollback": "2017-07-25T14:03:31.7309765-07:00",
       "user": "vault82\\sitecore\\Admin"
     }
   ]
