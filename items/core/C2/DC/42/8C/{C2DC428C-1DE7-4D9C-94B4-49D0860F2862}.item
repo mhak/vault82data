@@ -42,7 +42,7 @@ content-length: 0
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 3719
+content-length: 3748
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
@@ -65,7 +65,7 @@ content-length: 3719
     <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblLoading&amp;Text=Loading..." ph="NotificationBorder.Content" uid="{FFDFB22B-330B-47EA-BFB8-1BC1B74C99CC}" />
     <r id="{7A713A90-9DBE-49A4-9E5B-CAD5144AE67C}" par="Id=VaultHealthStatus" ph="ApplicationContent.Main" uid="{283CBBAC-BB9E-4342-A46A-F4DD614FEEB2}" />
     <r id="{73C16115-8B56-43AF-8EA3-4D704FCDA127}" par="Id=Separator1" ph="ApplicationContent.Main" uid="{7ED2D5B0-4A89-472A-A462-6B827EB82D1B}" />
-    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.rebuildCacheDb()%3b&amp;Id=ButtonRebuildDb" ph="ApplicationContent.Main" uid="{472ABC1C-A11D-49A0-94A2-F037E5C51AFD}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.rebuildCacheDb()%3b&amp;Id=ButtonRebuildDb&amp;Text=Rebuild+Vault+Cache" ph="ApplicationContent.Main" uid="{472ABC1C-A11D-49A0-94A2-F037E5C51AFD}" />
     <r id="{3055E50C-BA58-4107-B465-267F0F54F1A9}" par="Id=XSpeak&amp;PollingIntervalMinutes=1&amp;ControlList=VaultHealthStatus" ph="Page.Body" uid="{59881CC9-32D1-4A6A-8868-5B253192726C}" />
   </d>
 </r>
@@ -79,7 +79,7 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: be796d6c-599b-4c04-ba1b-1f3ba79ea512
+revision: d9d8fcd2-7990-4e0f-9551-79e60baba0e0
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -101,14 +101,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-be796d6c-599b-4c04-ba1b-1f3ba79ea512
+d9d8fcd2-7990-4e0f-9551-79e60baba0e0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170725T185510Z
+20170725T185547Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
