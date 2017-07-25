@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Saved",
+    "database": "core",
+    "itemId": "{4CEBFF86-1C25-4563-BEF0-26F1D4960A11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-07-25T18:52:41.5789735Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "Snapshots",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
