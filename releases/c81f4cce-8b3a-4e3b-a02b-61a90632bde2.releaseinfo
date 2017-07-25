@@ -2,7 +2,7 @@
   "id": "c81f4cce-8b3a-4e3b-a02b-61a90632bde2",
   "releaseName": "rollback",
   "lastModified": "2017-07-25T21:05:35.9790831Z",
-  "lastDeployed": "0001-01-01T00:00:00",
+  "lastDeployed": "2017-07-25T14:05:47.1277208-07:00",
   "lastRollback": "0001-01-01T00:00:00",
   "releaseItems": [
     {
@@ -15,5 +15,13 @@
       "autoPublish": false
     }
   ],
-  "serverDeployments": null
+  "serverDeployments": [
+    {
+      "server": "http://sitecore82initial",
+      "items": "master:{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}?mode=Merge&autopublish=False",
+      "lastDeployment": "2017-07-25T14:05:47.1277208-07:00",
+      "lastRollback": "0001-01-01T00:00:00",
+      "user": "vault82\\sitecore\\Admin"
+    }
+  ]
 }
