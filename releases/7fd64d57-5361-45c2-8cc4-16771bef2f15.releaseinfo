@@ -2,7 +2,7 @@
   "id": "7fd64d57-5361-45c2-8cc4-16771bef2f15",
   "releaseName": "test2",
   "lastModified": "2017-07-25T20:55:56.87096Z",
-  "lastDeployed": "0001-01-01T00:00:00",
+  "lastDeployed": "2017-07-25T13:56:13.9219353-07:00",
   "lastRollback": "0001-01-01T00:00:00",
   "releaseItems": [
     {
@@ -42,5 +42,13 @@
       "autoPublish": false
     }
   ],
-  "serverDeployments": null
+  "serverDeployments": [
+    {
+      "server": "http://sitecore82initial",
+      "items": "master:{9130B44A-8FD5-48D6-94FF-EC03449475AB}?mode=Merge&autopublish=False|master:{FBDF4166-1CE2-40DC-A144-27ECAF34B70D}?mode=Merge&autopublish=False|master:{1B9E6366-C429-4E2A-A6D0-12BE62A44D4A}?mode=Merge&autopublish=False|master:{BA16113B-70DE-42B9-84F0-BC90D6E72904}?mode=Merge&autopublish=False|master:{F0F69104-C61E-40B9-B0C4-45EE4CA87203}?mode=Merge&autopublish=False|master:{01F82880-2523-4BDD-BF78-F67163E6027A}?mode=Merge&autopublish=False|master:{C3AF9C87-D4EB-4956-B06C-08FC6C4DED4E}?mode=Merge&autopublish=False|master:{13E59F80-4DB7-4A09-A0A5-F856FB38CF49}?mode=Merge&autopublish=False|master:{86895F84-ED8C-450F-85B8-BAA77439D317}?mode=Merge&autopublish=False|master:{45790069-8846-44AD-911E-95094CB19D69}?mode=Merge&autopublish=False|master:{F8437011-D13E-4162-94EE-17849DBD2CFA}?mode=Merge&autopublish=False",
+      "lastDeployment": "2017-07-25T13:56:13.9219353-07:00",
+      "lastRollback": "0001-01-01T00:00:00",
+      "user": "vault82\\sitecore\\Admin"
+    }
+  ]
 }
