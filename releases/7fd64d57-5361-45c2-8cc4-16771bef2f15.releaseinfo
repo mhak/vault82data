@@ -1,13 +1,13 @@
 {
   "id": "7fd64d57-5361-45c2-8cc4-16771bef2f15",
   "releaseName": "test2",
-  "lastModified": "2017-07-25T20:55:16.0056226Z",
+  "lastModified": "2017-07-25T20:55:56.87096Z",
   "lastDeployed": "0001-01-01T00:00:00",
   "lastRollback": "0001-01-01T00:00:00",
   "releaseItems": [
     {
       "database": "master",
-      "recursive": false,
+      "recursive": true,
       "installMode": 0,
       "sitecoreItemId": "{13E59F80-4DB7-4A09-A0A5-F856FB38CF49}",
       "rolledback": null,
@@ -16,7 +16,7 @@
     },
     {
       "database": "master",
-      "recursive": false,
+      "recursive": true,
       "installMode": 0,
       "sitecoreItemId": "{86895F84-ED8C-450F-85B8-BAA77439D317}",
       "rolledback": null,
@@ -25,45 +25,9 @@
     },
     {
       "database": "master",
-      "recursive": false,
+      "recursive": true,
       "installMode": 0,
       "sitecoreItemId": "{45790069-8846-44AD-911E-95094CB19D69}",
-      "rolledback": null,
-      "languages": [],
-      "autoPublish": false
-    },
-    {
-      "database": "master",
-      "recursive": false,
-      "installMode": 0,
-      "sitecoreItemId": "{F8437011-D13E-4162-94EE-17849DBD2CFA}",
-      "rolledback": null,
-      "languages": [],
-      "autoPublish": false
-    },
-    {
-      "database": "master",
-      "recursive": true,
-      "installMode": 1,
-      "sitecoreItemId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
-      "rolledback": null,
-      "languages": [],
-      "autoPublish": false
-    },
-    {
-      "database": "master",
-      "recursive": true,
-      "installMode": 1,
-      "sitecoreItemId": "{76036F5E-CBCE-46D1-AF0A-4143F9B557AA}",
-      "rolledback": null,
-      "languages": [],
-      "autoPublish": false
-    },
-    {
-      "database": "master",
-      "recursive": true,
-      "installMode": 1,
-      "sitecoreItemId": "{1930BBEB-7805-471A-A3BE-4858AC7CF696}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
@@ -73,15 +37,6 @@
       "recursive": true,
       "installMode": 0,
       "sitecoreItemId": "{9130B44A-8FD5-48D6-94FF-EC03449475AB}",
-      "rolledback": null,
-      "languages": [],
-      "autoPublish": false
-    },
-    {
-      "database": "master",
-      "recursive": true,
-      "installMode": 1,
-      "sitecoreItemId": "{FBDF4166-1CE2-40DC-A144-27ECAF34B70D}",
       "rolledback": null,
       "languages": [],
       "autoPublish": false
