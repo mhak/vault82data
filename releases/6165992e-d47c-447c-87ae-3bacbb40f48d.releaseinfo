@@ -2,7 +2,7 @@
   "id": "6165992e-d47c-447c-87ae-3bacbb40f48d",
   "releaseName": "image",
   "lastModified": "2017-07-25T21:10:26.5067003Z",
-  "lastDeployed": "0001-01-01T00:00:00",
+  "lastDeployed": "2017-07-25T14:10:37.673339-07:00",
   "lastRollback": "0001-01-01T00:00:00",
   "releaseItems": [
     {
@@ -15,5 +15,13 @@
       "autoPublish": false
     }
   ],
-  "serverDeployments": null
+  "serverDeployments": [
+    {
+      "server": "http://sitecore82initial",
+      "items": "master:{D53DED06-E88F-4ABA-90FF-DC725098A7A7}?mode=Merge&autopublish=False",
+      "lastDeployment": "2017-07-25T14:10:37.673339-07:00",
+      "lastRollback": "0001-01-01T00:00:00",
+      "user": "vault82\\sitecore\\Admin"
+    }
+  ]
 }
