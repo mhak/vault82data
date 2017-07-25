@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F8437011-D13E-4162-94EE-17849DBD2CFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-07-25T20:52:33.8603485Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Admin",
+    "itemName": "New Content",
+    "itemPath": "/sitecore/content/New Folder/New Content",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.161115",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
