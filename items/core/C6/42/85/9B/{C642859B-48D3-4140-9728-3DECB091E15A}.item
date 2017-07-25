@@ -35,7 +35,7 @@ content-length: 1
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 20742
+content-length: 20744
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
@@ -129,7 +129,7 @@ content-length: 20742
     <r id="{73C16115-8B56-43AF-8EA3-4D704FCDA127}" par="Id=Separator1" ph="aeTopReportContainer.Content" uid="{1280BE80-4A3C-4566-B477-E88AD009E1F1}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bDate&amp;PaddingType=Bottom&amp;ContentAlignment=Right&amp;UsePadding=1" ph="aeTopReportContainer.Content" uid="{0677262B-D762-4B03-A508-1A7B5D09D9F0}" />
     <r id="{5E3B31F7-FE96-40FB-BE38-94418E4B789A}" par="Resolution=Day&amp;Id=ChartDataProvider1&amp;DataURL=%2fapi%2fsitecore%2fvault%2fGetHistoryEventCount" ph="aeTopReportContainer.Content" uid="{2A414979-A561-45EB-87A8-8603B881F532}" />
-    <r id="{01571226-416B-4E07-863E-B00EA2B3245D}" par="Id=ColumnChart&amp;IsVisible=1&amp;ShowLegend=1&amp;ShowAxis=1&amp;CategoryChartField=%2525257bF80EA83F-1086-450F-A6CD-9059A98932AF%2525257d&amp;StackSeries=1&amp;SeriesChartField=%2525257bADA9C110-A86D-4C28-8DAF-51062DE9B590%2525257d&amp;ValueChartFields=%2525257b72EF4729-CA58-4068-8500-CA1C8B705684%2525257d&amp;ShowValues=0&amp;Data=%2525257bBinding%25252bChartDataProvider1.Data%2525257d&amp;SingleChartHeight=400" ph="aeTopReportContainer.Content" uid="{669634D4-43CD-4F8D-A171-5B71914248F1}" />
+    <r id="{01571226-416B-4E07-863E-B00EA2B3245D}" par="Id=ColumnChartdf&amp;IsVisible=1&amp;ShowLegend=1&amp;ShowAxis=1&amp;CategoryChartField=%2525257bF80EA83F-1086-450F-A6CD-9059A98932AF%2525257d&amp;StackSeries=1&amp;SeriesChartField=%2525257bADA9C110-A86D-4C28-8DAF-51062DE9B590%2525257d&amp;ValueChartFields=%2525257b72EF4729-CA58-4068-8500-CA1C8B705684%2525257d&amp;ShowValues=0&amp;Data=%2525257bBinding%25252bChartDataProvider1.Data%2525257d&amp;SingleChartHeight=400" ph="aeTopReportContainer.Content" uid="{669634D4-43CD-4F8D-A171-5B71914248F1}" />
     <r id="{B2E16EA6-3E26-4841-BDDD-499BA32BCB4F}" par="Id=ColumnChart1&amp;DynamicData=%7bBinding+ChartDataProvider1.Data%7d" ph="aeTopReportContainer.Content" uid="{F80FB7EB-C59A-447E-AA0E-C65357539CC0}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=BorderChartLoading&amp;IsVisible=0&amp;Width=100%25&amp;ContentAlignment=Center&amp;Height=400px" ph="aeTopReportContainer.Content" uid="{5A411636-47D6-4D54-8D2B-8ED412C29417}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=BorderChartLoadingInner" ph="BorderChartLoading.Content" uid="{127E1031-6922-4004-85A2-16C51CF4040D}" />
@@ -195,7 +195,7 @@ extranet\Anonymous
 ----version----
 language: en
 version: 2
-revision: 7944b960-b626-4b93-b2a8-837a947723fb
+revision: d42e07d0-26ff-4640-ae1e-d93fa3cc4bad
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -217,14 +217,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7944b960-b626-4b93-b2a8-837a947723fb
+d42e07d0-26ff-4640-ae1e-d93fa3cc4bad
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170725T052030Z
+20170725T052127Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
